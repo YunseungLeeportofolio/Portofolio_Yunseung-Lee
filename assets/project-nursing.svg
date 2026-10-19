@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 540" width="400" height="540" role="img" aria-label="간호법 여론 분석: 협회 유튜브 대신 온라인 커뮤니티 데이터를 제안해 분석하고 임원진에게 발표한 프로젝트">
+<style>text{font-family:'Pretendard','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif;}
+    .pulse{animation:pulse 3s infinite ease-in-out;transform-box:fill-box;transform-origin:center;}
+    .flow{stroke-dasharray:5 6;animation:flow 1.6s linear infinite;}
+    @keyframes pulse{0%,100%{opacity:.55;transform:scale(1)}50%{opacity:1;transform:scale(1.18)}}
+    @keyframes flow{to{stroke-dashoffset:-22}}
+    </style>
+<rect x="1" y="1" width="398" height="538" rx="26" fill="#0E1726" stroke="#24344F" stroke-width="2"/>
+<rect x="28" y="30" width="96" height="26" rx="13" fill="#FF7A6B" fill-opacity=".16"/>
+<text x="76" y="48" font-size="12.5" font-weight="700" text-anchor="middle" fill="#FF7A6B" letter-spacing="1.5">PROJECT 02</text>
+<text x="372" y="48" font-size="13" text-anchor="end" fill="#94A3B8">2023.06 – 2023.12</text>
+<text x="28" y="100" font-size="29" font-weight="800" fill="#F1F5F9">간호법 여론 분석</text>
+<text x="28" y="132" font-size="15" fill="#94A3B8">대한간호협회 의뢰 연구</text>
+<text x="28" y="154" font-size="15" fill="#94A3B8">연구보조원 · 데이터 분석 담당</text>
+<rect x="28" y="182" width="344" height="226" rx="18" fill="#152238"/>
+<rect x="48" y="196" width="304" height="58" rx="12" fill="#64748B" fill-opacity="0.08" stroke="#64748B" stroke-opacity=".7"/><text x="66" y="220" font-size="12.5" font-weight="700" fill="#64748B" letter-spacing="1">요청받은 데이터</text><text x="66" y="241" font-size="15" fill="#94A3B8">협회 유튜브 채널 (영상 부족)</text><line x1="66" y1="236" x2="249" y2="236" stroke="#94A3B8" stroke-width="1.5"/>
+<line class="flow" x1="200" y1="256" x2="200" y2="268" stroke="#94A3B8" stroke-width="2"/>
+<rect x="48" y="270" width="304" height="58" rx="12" fill="#FF7A6B" fill-opacity="0.14" stroke="#FF7A6B" stroke-opacity=".7"/><text x="66" y="294" font-size="12.5" font-weight="700" fill="#FF7A6B" letter-spacing="1">내가 제안한 데이터</text><text x="66" y="315" font-size="15" fill="#F1F5F9">온라인 커뮤니티 여론으로 전환</text>
+<line class="flow" x1="200" y1="330" x2="200" y2="342" stroke="#94A3B8" stroke-width="2"/>
+<rect x="48" y="344" width="304" height="58" rx="12" fill="#F5B841" fill-opacity="0.1" stroke="#F5B841" stroke-opacity=".7"/><text x="66" y="368" font-size="12.5" font-weight="700" fill="#F5B841" letter-spacing="1">결과</text><text x="66" y="389" font-size="15" fill="#F1F5F9">협회 임원진 대상 분석 결과 발표</text>
+<line x1="28" y1="430" x2="372" y2="430" stroke="#24344F"/>
+<text x="28" y="460" font-size="15.5" fill="#F1F5F9">질문에 답할 수 없는 데이터 대신</text>
+<text x="28" y="484" font-size="15.5" fill="#F1F5F9">답할 수 있는 데이터를 골랐습니다.</text>
+<text x="372" y="516" font-size="14" font-weight="700" text-anchor="end" fill="#FF7A6B">자세히 보기 →</text>
+</svg>

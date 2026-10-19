@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 540" width="400" height="540" role="img" aria-label="부산 청년 실태보고서: 부산 지역 일간지 기사 22,292건으로 실제보다 덜 보도된 청년 문제를 찾은 프로젝트">
+<style>text{font-family:'Pretendard','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif;}
+    .pulse{animation:pulse 3s infinite ease-in-out;transform-box:fill-box;transform-origin:center;}
+    .flow{stroke-dasharray:5 6;animation:flow 1.6s linear infinite;}
+    @keyframes pulse{0%,100%{opacity:.55;transform:scale(1)}50%{opacity:1;transform:scale(1.18)}}
+    @keyframes flow{to{stroke-dashoffset:-22}}
+    </style>
+<rect x="1" y="1" width="398" height="538" rx="26" fill="#0E1726" stroke="#24344F" stroke-width="2"/>
+<rect x="28" y="30" width="96" height="26" rx="13" fill="#2AC1BC" fill-opacity=".16"/>
+<text x="76" y="48" font-size="12.5" font-weight="700" text-anchor="middle" fill="#2AC1BC" letter-spacing="1.5">PROJECT 01</text>
+<text x="372" y="48" font-size="13" text-anchor="end" fill="#94A3B8">2025.09 – 2026.08</text>
+<text x="28" y="100" font-size="29" font-weight="800" fill="#F1F5F9">부산 청년 실태보고서</text>
+<text x="28" y="132" font-size="15" fill="#94A3B8">부산형 앵커(ANCHOR) 사업</text>
+<text x="28" y="154" font-size="15" fill="#94A3B8">빅데이터 분석팀 팀장</text>
+<rect x="28" y="182" width="344" height="226" rx="18" fill="#152238"/>
+<text x="48" y="246" font-size="56" font-weight="800" fill="#2AC1BC">22,292</text>
+<text x="48" y="276" font-size="15" fill="#94A3B8">건의 부산 지역 일간지 기사 분석</text>
+<g font-size="14.5">
+<rect x="48" y="300" width="304" height="40" rx="10" fill="#ffffff" fill-opacity=".04"/>
+<circle class="pulse" cx="68" cy="320" r="6" fill="#2AC1BC"/>
+<text x="86" y="325" fill="#F1F5F9">고용·창업</text><text x="336" y="325" text-anchor="end" fill="#2AC1BC" font-weight="700">보도 많음 ▲</text>
+<rect x="48" y="350" width="304" height="40" rx="10" fill="#ffffff" fill-opacity=".04"/>
+<circle class="pulse" cx="68" cy="370" r="6" fill="#FF7A6B" style="animation-delay:1.5s"/>
+<text x="86" y="375" fill="#F1F5F9">주거·유출·정신건강</text><text x="336" y="375" text-anchor="end" fill="#FF7A6B" font-weight="700">실제보다 적음 ▼</text>
+</g>
+<line x1="28" y1="430" x2="372" y2="430" stroke="#24344F"/>
+<text x="28" y="460" font-size="15.5" fill="#F1F5F9">보도량과 실제 통계를 맞대어</text>
+<text x="28" y="484" font-size="15.5" fill="#F1F5F9">덜 보도된 청년 문제를 찾았습니다.</text>
+
+</svg>

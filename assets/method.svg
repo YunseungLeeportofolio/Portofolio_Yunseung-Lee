@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-label="쪼갠다, 합친다, 새로 모은다: 데이터를 읽는 세 가지 방법">
+<style>text{font-family:'Pretendard','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif;}
+    .sa{animation:sa 5s infinite ease-in-out;transform-box:fill-box;transform-origin:bottom;}
+    .sb{animation:sb 5s infinite ease-in-out;transform-box:fill-box;transform-origin:bottom;}
+    .ml{animation:ml 5s infinite ease-in-out;} .mr{animation:mr 5s infinite ease-in-out;} .mt{animation:mt 5s infinite ease-in-out;}
+    .p1,.p2,.p3{opacity:0;animation:pop 5s infinite;transform-box:fill-box;transform-origin:center;}
+    .p2{animation-delay:.35s} .p3{animation-delay:.7s}
+    @keyframes sa{0%,15%{transform:scaleY(1)}40%,80%{transform:scaleY(1.45)}100%{transform:scaleY(1)}}
+    @keyframes sb{0%,15%{transform:scaleY(1)}40%,80%{transform:scaleY(.45)}100%{transform:scaleY(1)}}
+    @keyframes ml{0%,15%{transform:translate(-14px,6px)}45%,80%{transform:translate(0,0)}100%{transform:translate(-14px,6px)}}
+    @keyframes mr{0%,15%{transform:translate(14px,6px)}45%,80%{transform:translate(0,0)}100%{transform:translate(14px,6px)}}
+    @keyframes mt{0%,15%{transform:translate(0,-14px)}45%,80%{transform:translate(0,0)}100%{transform:translate(0,-14px)}}
+    @keyframes pop{0%,20%{opacity:0;transform:scale(.2)}32%{opacity:1;transform:scale(1.2)}38%,80%{opacity:1;transform:scale(1)}92%,100%{opacity:0;transform:scale(.6)}}
+    </style>
+<g>
+<clipPath id="c0"><rect x="24" y="16" width="368" height="328" rx="22"/></clipPath>
+<rect x="24" y="16" width="368" height="328" rx="22" fill="#0E1726" stroke="#24344F"/>
+<rect x="24" y="16" width="368" height="6" fill="#FF7A6B" clip-path="url(#c0)"/>
+<rect x="68" y="86" width="52" height="4" rx="2" fill="#94A3B8" opacity=".5"/><rect class="sa" x="68" y="58" width="22" height="30" rx="4" fill="#FF7A6B"/><rect class="sb" x="98" y="58" width="22" height="30" rx="4" fill="#FF7A6B" opacity=".55"/>
+<text x="356" y="80" font-size="15" font-weight="700" text-anchor="end" fill="#64748B" letter-spacing="2">STEP 01</text>
+<text x="64" y="146" font-size="34" font-weight="800" fill="#FF7A6B">쪼갠다</text>
+<text x="64" y="188" font-size="18" fill="#F1F5F9">평균으로 묶인 숫자를</text>
+<text x="64" y="216" font-size="18" fill="#F1F5F9">집단·지역·시점별로 나눕니다.</text>
+<line x1="64" y1="248" x2="352" y2="248" stroke="#24344F"/>
+<text x="64" y="280" font-size="14" fill="#94A3B8">사용후핵연료 기사 5,171건을 전국지와</text>
+<text x="64" y="304" font-size="14" fill="#94A3B8">지역지로 나누자 서로 다른 의제가 보였습니다.</text>
+</g><g>
+<clipPath id="c1"><rect x="416" y="16" width="368" height="328" rx="22"/></clipPath>
+<rect x="416" y="16" width="368" height="328" rx="22" fill="#0E1726" stroke="#24344F"/>
+<rect x="416" y="16" width="368" height="6" fill="#2AC1BC" clip-path="url(#c1)"/>
+<circle class="ml" cx="474" cy="78" r="15" fill="#2AC1BC" fill-opacity=".45"/><circle class="mr" cx="498" cy="78" r="15" fill="#2AC1BC" fill-opacity=".45"/><circle class="mt" cx="486" cy="60" r="15" fill="#2AC1BC" fill-opacity=".45"/>
+<text x="748" y="80" font-size="15" font-weight="700" text-anchor="end" fill="#64748B" letter-spacing="2">STEP 02</text>
+<text x="456" y="146" font-size="34" font-weight="800" fill="#2AC1BC">합친다</text>
+<text x="456" y="188" font-size="18" fill="#F1F5F9">성격이 다른 데이터를</text>
+<text x="456" y="216" font-size="18" fill="#F1F5F9">하나의 구조 위에 겹쳐 봅니다.</text>
+<line x1="456" y1="248" x2="744" y2="248" stroke="#24344F"/>
+<text x="456" y="280" font-size="14" fill="#94A3B8">언론·유튜브·커뮤니티 텍스트 3만여 건에</text>
+<text x="456" y="304" font-size="14" fill="#94A3B8">인터뷰 34명을 더해 이슈 지도를 비교했습니다.</text>
+</g><g>
+<clipPath id="c2"><rect x="808" y="16" width="368" height="328" rx="22"/></clipPath>
+<rect x="808" y="16" width="368" height="328" rx="22" fill="#0E1726" stroke="#24344F"/>
+<rect x="808" y="16" width="368" height="6" fill="#F5B841" clip-path="url(#c2)"/>
+<rect x="852" y="46" width="52" height="46" rx="8" fill="none" stroke="#F5B841" stroke-width="2.5"/><circle class="p1" cx="866" cy="66" r="5" fill="#F5B841"/><circle class="p2" cx="882" cy="60" r="5" fill="#F5B841"/><circle class="p3" cx="892" cy="76" r="5" fill="#F5B841"/>
+<text x="1140" y="80" font-size="15" font-weight="700" text-anchor="end" fill="#64748B" letter-spacing="2">STEP 03</text>
+<text x="848" y="146" font-size="34" font-weight="800" fill="#F5B841">새로 모은다</text>
+<text x="848" y="188" font-size="18" fill="#F1F5F9">기존 데이터로 답이 안 나오면</text>
+<text x="848" y="216" font-size="18" fill="#F1F5F9">현장에서 직접 구합니다.</text>
+<line x1="848" y1="248" x2="1136" y2="248" stroke="#24344F"/>
+<text x="848" y="280" font-size="14" fill="#94A3B8">관광객이 설문 앞에서 머뭇거린 이유를 묻고</text>
+<text x="848" y="304" font-size="14" fill="#94A3B8">문항을 고쳐 할당의 150%를 채웠습니다.</text>
+</g>
+</svg>

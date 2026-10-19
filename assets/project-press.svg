@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 540" width="400" height="540" role="img" aria-label="차별 보도 법제 비교: 한국·영국·독일·일본·EU를 비교한 다국적 연구팀을 구성하고 조율한 프로젝트">
+<style>text{font-family:'Pretendard','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif;}
+    .pulse{animation:pulse 3s infinite ease-in-out;transform-box:fill-box;transform-origin:center;}
+    .flow{stroke-dasharray:5 6;animation:flow 1.6s linear infinite;}
+    @keyframes pulse{0%,100%{opacity:.55;transform:scale(1)}50%{opacity:1;transform:scale(1.18)}}
+    @keyframes flow{to{stroke-dashoffset:-22}}
+    </style>
+<rect x="1" y="1" width="398" height="538" rx="26" fill="#0E1726" stroke="#24344F" stroke-width="2"/>
+<rect x="28" y="30" width="96" height="26" rx="13" fill="#F5B841" fill-opacity=".16"/>
+<text x="76" y="48" font-size="12.5" font-weight="700" text-anchor="middle" fill="#F5B841" letter-spacing="1.5">PROJECT 03</text>
+<text x="372" y="48" font-size="13" text-anchor="end" fill="#94A3B8">2024.04 – 2024.11</text>
+<text x="28" y="100" font-size="29" font-weight="800" fill="#F1F5F9">차별 보도 법제 비교</text>
+<text x="28" y="132" font-size="15" fill="#94A3B8">언론중재위원회 의뢰 연구</text>
+<text x="28" y="154" font-size="15" fill="#94A3B8">연구보조원 · 팀 구성과 조율</text>
+<rect x="28" y="182" width="344" height="226" rx="18" fill="#152238"/>
+<polygon points="200.0,214.0 278.0,270.7 248.2,362.3 151.8,362.3 122.0,270.7" fill="none" stroke="#24344F" stroke-width="1.5"/><line class="flow" x1="200" y1="296" x2="200.0" y2="214.0" stroke="#F5B841" stroke-opacity=".6" stroke-width="1.5"/><line class="flow" x1="200" y1="296" x2="278.0" y2="270.7" stroke="#F5B841" stroke-opacity=".6" stroke-width="1.5"/><line class="flow" x1="200" y1="296" x2="248.2" y2="362.3" stroke="#F5B841" stroke-opacity=".6" stroke-width="1.5"/><line class="flow" x1="200" y1="296" x2="151.8" y2="362.3" stroke="#F5B841" stroke-opacity=".6" stroke-width="1.5"/><line class="flow" x1="200" y1="296" x2="122.0" y2="270.7" stroke="#F5B841" stroke-opacity=".6" stroke-width="1.5"/>
+<circle cx="200" cy="296" r="30" fill="#0E1726" stroke="#F5B841" stroke-width="2"/>
+<text x="200" y="294" font-size="12" font-weight="700" text-anchor="middle" fill="#F5B841">다국적</text>
+<text x="200" y="310" font-size="12" font-weight="700" text-anchor="middle" fill="#F5B841">연구팀</text>
+<circle class="pulse" style="animation-delay:0.0s" cx="200.0" cy="214.0" r="21" fill="#F5B841" fill-opacity=".18" stroke="#F5B841"/><text x="200.0" y="219.0" font-size="13.5" font-weight="700" text-anchor="middle" fill="#F1F5F9">한국</text><circle class="pulse" style="animation-delay:0.5s" cx="278.0" cy="270.7" r="21" fill="#F5B841" fill-opacity=".18" stroke="#F5B841"/><text x="278.0" y="275.7" font-size="13.5" font-weight="700" text-anchor="middle" fill="#F1F5F9">영국</text><circle class="pulse" style="animation-delay:1.0s" cx="248.2" cy="362.3" r="21" fill="#F5B841" fill-opacity=".18" stroke="#F5B841"/><text x="248.2" y="367.3" font-size="13.5" font-weight="700" text-anchor="middle" fill="#F1F5F9">독일</text><circle class="pulse" style="animation-delay:1.5s" cx="151.8" cy="362.3" r="21" fill="#F5B841" fill-opacity=".18" stroke="#F5B841"/><text x="151.8" y="367.3" font-size="13.5" font-weight="700" text-anchor="middle" fill="#F1F5F9">일본</text><circle class="pulse" style="animation-delay:2.0s" cx="122.0" cy="270.7" r="21" fill="#F5B841" fill-opacity=".18" stroke="#F5B841"/><text x="122.0" y="275.7" font-size="13.5" font-weight="700" text-anchor="middle" fill="#F1F5F9">EU</text>
+<line x1="28" y1="430" x2="372" y2="430" stroke="#24344F"/>
+<text x="28" y="460" font-size="15.5" fill="#F1F5F9">일하는 방식이 다른 팀원들과 비교 기준을</text>
+<text x="28" y="484" font-size="15.5" fill="#F1F5F9">먼저 맞춰, 큰 수정 없이 통과했습니다.</text>
+<text x="372" y="516" font-size="14" font-weight="700" text-anchor="end" fill="#F5B841">자세히 보기 →</text>
+</svg>
