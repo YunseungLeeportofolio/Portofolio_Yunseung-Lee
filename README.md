@@ -4,10 +4,6 @@
 
 <img src="assets/header.svg" width="100%" alt="이윤승. 평균이 말해주지 않는 실제를 찾기 위해, 데이터를 쪼개고 합치고 필요하면 새로 모읍니다."/>
 
-<a href="mailto:ppuhaha1009@gmail.com"><img src="https://img.shields.io/badge/ppuhaha1009@gmail.com-0E9F9A?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="mailto:ppuhaha109@naver.com"><img src="https://img.shields.io/badge/ppuhaha109@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Mail"/></a>
-<a href="tel:010-2230-1701"><img src="https://img.shields.io/badge/010--2230--1701-F97316?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik02LjYyIDEwLjc5YTE1LjA1IDE1LjA1IDAgMCAwIDYuNTkgNi41OWwyLjItMi4yYTEgMSAwIDAgMSAxLjAyLS4yNGMxLjEyLjM3IDIuMzMuNTcgMy41Ny41N2ExIDEgMCAwIDEgMSAxVjIwYTEgMSAwIDAgMS0xIDFDMTAuNjEgMjEgMyAxMy4zOSAzIDRhMSAxIDAgMCAxIDEtMWgzLjVhMSAxIDAgMCAxIDEgMWMwIDEuMjUuMiAyLjQ1LjU3IDMuNTdhMSAxIDAgMCAxLS4yNSAxLjAybC0yLjIgMi4yeiIvPjwvc3ZnPg==" alt="Phone"/></a>
-
 </div>
 
 <br>
