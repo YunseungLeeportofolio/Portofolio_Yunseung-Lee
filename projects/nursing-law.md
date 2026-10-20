@@ -27,7 +27,6 @@
 | 역할 | 보조연구원 </sub> · 데이터 수집 · 분석, 결과 기술, 발표 자료 초안 |
 | 데이터 | 빅카인즈 보도 (2021.01 – 2023.05) · YTN 방송 스크립트 **605건** · 온라인 커뮤니티 4곳 게시글 · 협회 유튜브 댓글 **4,336개** |
 | 공개 자료 | [언론 보도 데이터 (CSV)](../assets/data/medical_all.csv) &nbsp;·&nbsp; [유튜브 댓글 데이터 (CSV)](../assets/data/YTC.csv) &nbsp;·&nbsp; [커뮤니티 댓글 데이터 (CSV)](../assets/data/sentiment_analysis_result_fm.csv) &nbsp;·&nbsp; [변수 설명](../assets/data/README1.md) |
-| 분석 코드 | [분석 코드](../assets/code/README1.md) |
 
 <br>
 
