@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 550" width="1200" height="550" role="img"
+     aria-label="앞 분석의 결과로 다음 분석 방향을 정하며 귀납적으로 보고서를 완성했습니다. 1 보도량: 빅카인즈 2021.01–2023.05 월별·언론사별·성향별 비교, YTN 보도량이 두드러짐. 2 YTN 의제: 기사·방송 스크립트 605건 11개 의제, 보도 중심이 정치 갈등으로 이동. 3 커뮤니티 여론: 디시인사이드 등 4곳 딥러닝 감성·비시민성, 부정 감성은 법보다 정치 쟁점 겨냥. 4 협회 유튜브: 영상 31개·댓글 4,336개 비교 자료, 긍정 0.7 대 커뮤니티 0.3.">
+  <style>.kr{font-family:'Pretendard','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif} .mono{font-family:'SF Mono',Menlo,Consolas,'Courier New',monospace;letter-spacing:1.5px}</style>
+
+  <!-- 배경 -->
+  <rect x="0.5" y="0.5" width="1199" height="549" rx="24" fill="#FFFFFF" stroke="#D8DEE4"/>
+
+  <!-- 제목 -->
+  <text class="kr" x="40" y="62" font-size="23" fill="#1F2328" font-weight="800">앞 분석의 결과로 다음 분석 방향을 정하며, 귀납적으로 보고서를 완성했습니다</text>
+
+  <!-- STEP 01: 보도량 -->
+  <g>
+    <rect x="40" y="96" width="260.5" height="190" rx="16" fill="#F6F8FA" stroke="#D8DEE4"/>
+    <text class="mono" x="62" y="132" font-size="12" fill="#57606A" font-weight="700">STEP 01</text>
+    <text class="kr" x="62" y="168" font-size="21" fill="#1F2328" font-weight="800">보도량</text>
+    <text class="mono" x="62" y="204" font-size="11" fill="#6E7781" font-weight="700">DATA</text>
+    <text class="kr" x="62" y="232" font-size="14.5" fill="#424A53">빅카인즈 2021.01 – 2023.05</text>
+    <text class="kr" x="62" y="256" font-size="14.5" fill="#424A53">월별 · 언론사별 · 성향별</text>
+    <rect x="40" y="306" width="260.5" height="98" rx="14" fill="#EEF1F4"/>
+    <text class="mono" x="62" y="336" font-size="11" fill="#57606A" font-weight="700">FINDING</text>
+    <text class="kr" x="62" y="364" font-size="15" fill="#1F2328" font-weight="700">YTN의 보도량이</text>
+    <text class="kr" x="62" y="388" font-size="15" fill="#1F2328" font-weight="700">유독 두드러짐</text>
+  </g>
+  <line x1="305.5" y1="191" x2="316.5" y2="191" stroke="#6E7781" stroke-width="2"/>
+  <path d="M314.5 186 L321.5 191 L314.5 196" fill="none" stroke="#6E7781" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- STEP 02: YTN 의제 -->
+  <g>
+    <rect x="326.5" y="96" width="260.5" height="190" rx="16" fill="#F6F8FA" stroke="#D8DEE4"/>
+    <text class="mono" x="348.5" y="132" font-size="12" fill="#B4691F" font-weight="700">STEP 02</text>
+    <text class="kr" x="348.5" y="168" font-size="21" fill="#1F2328" font-weight="800">YTN 의제</text>
+    <text class="mono" x="348.5" y="204" font-size="11" fill="#6E7781" font-weight="700">DATA</text>
+    <text class="kr" x="348.5" y="232" font-size="14.5" fill="#424A53">기사 · 방송 스크립트 605건</text>
+    <text class="kr" x="348.5" y="256" font-size="14.5" fill="#424A53">11개 의제 · 시계열 · 연결망</text>
+    <rect x="326.5" y="306" width="260.5" height="98" rx="14" fill="#FBF0E3"/>
+    <text class="mono" x="348.5" y="336" font-size="11" fill="#B4691F" font-weight="700">FINDING</text>
+    <text class="kr" x="348.5" y="364" font-size="15" fill="#1F2328" font-weight="700">보도의 중심이</text>
+    <text class="kr" x="348.5" y="388" font-size="15" fill="#1F2328" font-weight="700">정치 갈등으로 이동</text>
+  </g>
+  <line x1="592" y1="191" x2="603" y2="191" stroke="#6E7781" stroke-width="2"/>
+  <path d="M601 186 L608 191 L601 196" fill="none" stroke="#6E7781" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- STEP 03: 커뮤니티 여론 -->
+  <g>
+    <rect x="613" y="96" width="260.5" height="190" rx="16" fill="#F6F8FA" stroke="#D8DEE4"/>
+    <text class="mono" x="635" y="132" font-size="12" fill="#C9473C" font-weight="700">STEP 03</text>
+    <text class="kr" x="635" y="168" font-size="21" fill="#1F2328" font-weight="800">커뮤니티 여론</text>
+    <text class="mono" x="635" y="204" font-size="11" fill="#6E7781" font-weight="700">DATA</text>
+    <text class="kr" x="635" y="232" font-size="14.5" fill="#424A53">디시인사이드 등 4곳</text>
+    <text class="kr" x="635" y="256" font-size="14.5" fill="#424A53">딥러닝 감성 · 비시민성</text>
+    <rect x="613" y="306" width="260.5" height="98" rx="14" fill="#FBE9E7"/>
+    <text class="mono" x="635" y="336" font-size="11" fill="#C9473C" font-weight="700">FINDING</text>
+    <text class="kr" x="635" y="364" font-size="15" fill="#1F2328" font-weight="700">부정 감성 높지만</text>
+    <text class="kr" x="635" y="388" font-size="15" fill="#1F2328" font-weight="700">법보다 정치 쟁점 겨냥</text>
+  </g>
+  <line x1="878.5" y1="191" x2="889.5" y2="191" stroke="#6E7781" stroke-width="2"/>
+  <path d="M887.5 186 L894.5 191 L887.5 196" fill="none" stroke="#6E7781" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- STEP 04: 협회 유튜브 -->
+  <g>
+    <rect x="899.5" y="96" width="260.5" height="190" rx="16" fill="#F6F8FA" stroke="#D8DEE4"/>
+    <text class="mono" x="921.5" y="132" font-size="12" fill="#3563C9" font-weight="700">STEP 04</text>
+    <text class="kr" x="921.5" y="168" font-size="21" fill="#1F2328" font-weight="800">협회 유튜브</text>
+    <text class="mono" x="921.5" y="204" font-size="11" fill="#6E7781" font-weight="700">DATA</text>
+    <text class="kr" x="921.5" y="232" font-size="14.5" fill="#424A53">영상 31개 · 댓글 4,336개</text>
+    <text class="kr" x="921.5" y="256" font-size="14.5" fill="#424A53">비교 자료로만 사용</text>
+    <rect x="899.5" y="306" width="260.5" height="98" rx="14" fill="#EAF0FB"/>
+    <text class="mono" x="921.5" y="336" font-size="11" fill="#3563C9" font-weight="700">FINDING</text>
+    <text class="kr" x="921.5" y="364" font-size="15" fill="#1F2328" font-weight="700">긍정 0.7, 커뮤니티 0.3</text>
+    <text class="kr" x="921.5" y="388" font-size="15" fill="#1F2328" font-weight="700">관심층 반응으로 구분</text>
+  </g>
+
+  <!-- 데이터를 바꾼 이유 -->
+  <text class="kr" x="40" y="452" font-size="14" fill="#C9473C" font-weight="700">데이터를 바꾼 이유</text>
+  <text class="kr" x="40" y="482" font-size="15.5" fill="#424A53">협회는 자체 유튜브를 여론 분석의 중심으로 원했지만, 영상이 31개뿐이고 협회 관심층의 반응에 치우쳐 있었습니다.</text>
+  <text class="kr" x="40" y="510" font-size="15.5" fill="#424A53">그래서 게시글이 쌓인 커뮤니티를 중심 데이터로, 유튜브는 비교 자료로 쓰자고 제안했습니다.</text>
+</svg>
