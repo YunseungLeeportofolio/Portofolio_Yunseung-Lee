@@ -10,7 +10,7 @@
 
 **후보가 많이 올린 영상과 유권자가 반응한 영상은 같았을까?**
 
-`Disaggregate` &nbsp;`내용분석` &nbsp;`K-평균 군집화` &nbsp;`Kruskal-Wallis`
+`내용분석` &nbsp;`K-평균 군집화` &nbsp;`Kruskal-Wallis`
 
 </div>
 
