@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" width="1200" height="520" role="img"
+     aria-label="선거일이 다가올수록 대면 선거 활동 영상이 가장 크게 늘었습니다. 주차에 따른 게시 빈도 회귀계수 B: 대면 선거 활동 .16(p=.001), 정치인 출연 미디어 .05(p=.002), 로고송 뮤직비디오 .05(p=.004), 공식 홍보 .03(p=.081, 유의하지 않음), 공약 홍보 .01(p=.614, 유의하지 않음).">
+  <style>.kr{font-family:'Pretendard','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif} .en{font-family:'Helvetica Neue','SF Pro Display','Segoe UI',Arial,sans-serif}</style>
+
+  <!-- 배경 -->
+  <rect x="0.5" y="0.5" width="1199" height="519" rx="24" fill="#FFFFFF" stroke="#D8DEE4"/>
+
+  <!-- 제목 -->
+  <text class="kr" x="40" y="62" font-size="23" fill="#1F2328" font-weight="800">선거일이 다가올수록 대면 활동 영상이 가장 크게 늘었습니다</text>
+
+  <!-- 범례 -->
+  <rect x="40" y="96" width="14" height="14" rx="3" fill="#1C7C74"/>
+  <text class="kr" x="62" y="108" font-size="14.5" fill="#424A53" font-weight="600">유의하게 증가 (p &lt; .05)</text>
+  <rect x="270" y="96" width="14" height="14" rx="3" fill="#AEB9C7"/>
+  <text class="kr" x="292" y="108" font-size="14.5" fill="#424A53" font-weight="600">유의한 변화 없음</text>
+
+  <!-- 대면 선거 활동 -->
+  <g>
+    <line x1="40" y1="132" x2="1160" y2="132" stroke="#EAEEF2"/>
+    <text class="kr" x="40" y="166" font-size="17" fill="#1F2328" font-weight="700">대면 선거 활동</text>
+    <rect x="290" y="148" width="576.0" height="26" rx="5" fill="#1C7C74"/>
+    <text class="en" x="878" y="167" font-size="15" fill="#1C7C74" font-weight="700">B = .16</text>
+    <text class="en" x="1160" y="167" font-size="14.5" fill="#6E7781" font-weight="600" text-anchor="end">p = .001</text>
+  </g>
+  <!-- 정치인 출연 미디어 -->
+  <g>
+    <line x1="40" y1="194" x2="1160" y2="194" stroke="#EAEEF2"/>
+    <text class="kr" x="40" y="228" font-size="17" fill="#1F2328" font-weight="700">정치인 출연 미디어</text>
+    <rect x="290" y="210" width="180.0" height="26" rx="5" fill="#1C7C74"/>
+    <text class="en" x="482" y="229" font-size="15" fill="#1C7C74" font-weight="700">B = .05</text>
+    <text class="en" x="1160" y="229" font-size="14.5" fill="#6E7781" font-weight="600" text-anchor="end">p = .002</text>
+  </g>
+  <!-- 로고송 뮤직비디오 -->
+  <g>
+    <line x1="40" y1="256" x2="1160" y2="256" stroke="#EAEEF2"/>
+    <text class="kr" x="40" y="290" font-size="17" fill="#1F2328" font-weight="700">로고송 뮤직비디오</text>
+    <rect x="290" y="272" width="180.0" height="26" rx="5" fill="#1C7C74"/>
+    <text class="en" x="482" y="291" font-size="15" fill="#1C7C74" font-weight="700">B = .05</text>
+    <text class="en" x="1160" y="291" font-size="14.5" fill="#6E7781" font-weight="600" text-anchor="end">p = .004</text>
+  </g>
+  <!-- 공식 홍보 -->
+  <g>
+    <line x1="40" y1="318" x2="1160" y2="318" stroke="#EAEEF2"/>
+    <text class="kr" x="40" y="352" font-size="17" fill="#424A53" font-weight="700">공식 홍보</text>
+    <rect x="290" y="334" width="108.0" height="26" rx="5" fill="#AEB9C7"/>
+    <text class="en" x="410" y="353" font-size="15" fill="#424A53" font-weight="700">B = .03</text>
+    <text class="en" x="1160" y="353" font-size="14.5" fill="#6E7781" font-weight="600" text-anchor="end">p = .081  (n.s.)</text>
+  </g>
+  <!-- 공약 홍보 -->
+  <g>
+    <line x1="40" y1="380" x2="1160" y2="380" stroke="#EAEEF2"/>
+    <text class="kr" x="40" y="414" font-size="17" fill="#424A53" font-weight="700">공약 홍보</text>
+    <rect x="290" y="396" width="36.0" height="26" rx="5" fill="#AEB9C7"/>
+    <text class="en" x="338" y="415" font-size="15" fill="#424A53" font-weight="700">B = .01</text>
+    <text class="en" x="1160" y="415" font-size="14.5" fill="#6E7781" font-weight="600" text-anchor="end">p = .614  (n.s.)</text>
+  </g>
+
+  <!-- 주석 -->
+  <text class="kr" x="40" y="486" font-size="14" fill="#6E7781">게시 주차(2024.02.26 = 1주 차)를 독립변수, 유형별 게시 빈도를 종속변수로 한 선형 회귀 · 비표준화 계수 B</text>
+</svg>
