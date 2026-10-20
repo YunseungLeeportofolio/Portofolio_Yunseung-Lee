@@ -66,6 +66,11 @@
 
 <br>
 
+# 정치인 유튜브 선거 캠페인 콘텐츠 데이터
+| 데이터 | [코딩 데이터 보기 (CSV)](../assets/data/time_content.csv) &nbsp;·&nbsp; [변수 설명](../assets/data/README.md) |
+
+<br>
+
 ## 결과 1 · 후보자들은 어떤 소구의 콘텐츠를 많이 게시했나
 
 | 유형 | 내용 | 전체 | 보수 | 진보 |
