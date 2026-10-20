@@ -2,7 +2,33 @@
 
 <br>
 
-<img src="../assets/feature-nursing.svg" width="100%" alt="간호법 언론·여론 분석. YTN 기사·방송 스크립트 605건을 11개 의제로 분류, 거부권 보도 68건 대 간호사 응원·감사 보도 4건, 긍정 감성 협회 유튜브 0.7 대 온라인 커뮤니티 0.3."/>
+<!-- ===== 상단 소개 ===== -->
+<div align="center">
+
+<sub>FEATURED 02 &nbsp;·&nbsp; 2023.06 – 2023.12 &nbsp;·&nbsp; 대한간호협회 의뢰 연구 &nbsp;·&nbsp; 분석 전담</sub>
+
+# 간호법 언론 · 여론 분석
+
+**보도가 늘어난 만큼 간호사에 대한 관심도 늘었을까?**
+
+<p>
+  <img src="https://img.shields.io/badge/의뢰%20연구-대한간호협회-1C7C74?style=flat-square&labelColor=343A40" alt="의뢰 연구: 대한간호협회"/>
+  <img src="https://img.shields.io/badge/결과%20발표-협회%20임원진%20대상-C2410C?style=flat-square&labelColor=343A40" alt="결과 발표: 협회 임원진 대상"/>
+  <br>
+  <img src="https://img.shields.io/badge/Method-LDA%20%7C%20의미연결망%20%7C%20딥러닝%20감성%20분석-5B6573?style=flat-square&labelColor=343A40" alt="Method: LDA, 의미연결망, 딥러닝 감성 분석"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+</p>
+
+</div>
+
+<!-- 핵심 숫자 3개: <h3> 안의 숫자와 <sub> 안의 설명만 바꾸면 됩니다 -->
+<table>
+<tr>
+<td align="center" width="33%"><h3>605건</h3><sub>YTN 기사 · 방송 스크립트를<br>11개 의제로 분류</sub></td>
+<td align="center" width="33%"><h3>68 : 4</h3><sub>대통령 거부권 보도 대<br>간호사 응원 · 감사 보도</sub></td>
+<td align="center" width="33%"><h3>0.7 vs 0.3</h3><sub>긍정 감성 점수<br>협회 유튜브 vs 온라인 커뮤니티</sub></td>
+</tr>
+</table>
 
 | 항목 | 내용 |
 |:--|:--|
