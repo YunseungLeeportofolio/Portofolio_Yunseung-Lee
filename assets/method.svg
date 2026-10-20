@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 356" width="1200" height="356" role="img"
+     aria-label="Disaggregate: 평균으로 묶인 수치를 집단·지역·시점별로 세분화합니다. Integrate: 텍스트와 통계처럼 성격이 다른 데이터를 하나의 구조 위에서 함께 읽습니다. Generate: 기존 데이터가 질문에 맞지 않으면 현장에서 고쳐 새로 만듭니다.">
+  <style>
+    .kr { font-family: 'Pretendard','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif }
+    .en { font-family: 'Helvetica Neue','SF Pro Display','Segoe UI',Arial,sans-serif }
+    .mono { font-family: 'SF Mono',Menlo,Consolas,'Courier New',monospace }
+    .drift1 { animation: d1 6s ease-in-out infinite }
+    .drift3 { animation: d3 6s ease-in-out infinite }
+    @keyframes d1 { 0%, 100% { transform: translateY(0) } 50% { transform: translateY(-5px) } }
+    @keyframes d3 { 0%, 100% { transform: translateY(0) } 50% { transform: translateY(5px) } }
+    .flow { stroke-dasharray: 3 7; animation: flow 2.4s linear infinite }
+    @keyframes flow { to { stroke-dashoffset: -20 } }
+    .pulse { animation: pulse 2.4s ease-in-out infinite; transform-box: fill-box; transform-origin: center }
+    @keyframes pulse { 0%, 100% { transform: scale(1); opacity: .85 } 50% { transform: scale(1.25); opacity: 1 } }
+    .fill { opacity: 0; animation: fill 6s ease-in-out infinite }
+    @keyframes fill { 0%, 12% { opacity: 0 } 22%, 82% { opacity: 1 } 94%, 100% { opacity: 0 } }
+  </style>
+
+  <!-- 배경 -->
+  <rect x="0.5" y="0.5" width="1199" height="355" rx="24" fill="#FFFFFF" stroke="#D8DEE4"/>
+  <line x1="400" y1="44" x2="400" y2="312" stroke="#EAEEF2"/>
+  <line x1="800" y1="44" x2="800" y2="312" stroke="#EAEEF2"/>
+
+  <!-- 01 Disaggregate -->
+  <g>
+    <text class="mono" x="46" y="74" font-size="13" fill="#C9473C" font-weight="700" letter-spacing="2">01</text>
+    <line x1="226" y1="74" x2="270" y2="74" stroke="#6E7781" stroke-width="1.5"/>
+    <text class="mono" x="226" y="66" font-size="10" fill="#8C959F">μ</text>
+    <g class="drift1"><path d="M270 74 C300 74 310 52 344 52" fill="none" stroke="#C9473C" stroke-width="1.5"/><circle cx="348" cy="52" r="4.5" fill="#C9473C"/></g>
+    <g><path d="M270 74 C300 74 310 74 344 74" fill="none" stroke="#C9473C" stroke-width="1.5"/><circle cx="348" cy="74" r="4.5" fill="#C9473C"/></g>
+    <g class="drift3"><path d="M270 74 C300 74 310 96 344 96" fill="none" stroke="#C9473C" stroke-width="1.5"/><circle cx="348" cy="96" r="4.5" fill="#C9473C"/></g>
+    <text class="en" x="45" y="150" font-size="38" fill="#1F2328" font-weight="700" letter-spacing="-.5">Disaggregate</text>
+    <text class="kr" x="46" y="190" font-size="16" fill="#424A53">평균으로 묶인 수치를</text>
+    <text class="kr" x="46" y="215" font-size="16" fill="#424A53">집단·지역·시점별로 세분화합니다.</text>
+    <line x1="46" y1="244" x2="70" y2="244" stroke="#C9473C" stroke-width="1.5"/>
+    <text class="mono" x="80" y="248" font-size="10.5" fill="#6E7781" letter-spacing="2">CASE</text>
+    <text class="kr" x="46" y="274" font-size="13.5" fill="#6E7781">사용후핵연료 기사 5,171건을</text>
+    <text class="kr" x="46" y="295" font-size="13.5" fill="#6E7781">전국지와 지역지로 나누자, 평균에</text>
+    <text class="kr" x="46" y="316" font-size="13.5" fill="#6E7781">가려져 있던 지역의 의제가 드러났습니다.</text>
+  </g>
+
+  <!-- 02 Integrate -->
+  <g>
+    <text class="mono" x="446" y="74" font-size="13" fill="#1C7C74" font-weight="700" letter-spacing="2">02</text>
+    <rect x="628" y="52" width="5" height="10" rx="1" fill="#6E7781"/>
+    <rect x="636" y="44" width="5" height="18" rx="1" fill="#6E7781"/>
+    <rect x="644" y="49" width="5" height="13" rx="1" fill="#6E7781"/>
+    <rect x="628" y="84" width="26" height="2" rx="1" fill="#6E7781"/>
+    <rect x="628" y="90" width="20" height="2" rx="1" fill="#6E7781"/>
+    <rect x="628" y="96" width="24" height="2" rx="1" fill="#6E7781"/>
+    <path class="flow" d="M658 54 C696 54 702 74 736 74" fill="none" stroke="#1C7C74" stroke-width="1.5"/>
+    <path class="flow" d="M658 90 C696 90 702 74 736 74" fill="none" stroke="#1C7C74" stroke-width="1.5"/>
+    <circle cx="744" cy="74" r="8" fill="none" stroke="#1C7C74" stroke-width="1.5"/>
+    <circle class="pulse" cx="744" cy="74" r="3.5" fill="#1C7C74"/>
+    <text class="en" x="445" y="150" font-size="38" fill="#1F2328" font-weight="700" letter-spacing="-.5">Integrate</text>
+    <text class="kr" x="446" y="190" font-size="16" fill="#424A53">텍스트와 통계처럼 성격이 다른 데이터를</text>
+    <text class="kr" x="446" y="215" font-size="16" fill="#424A53">하나의 구조 위에서 함께 읽습니다.</text>
+    <line x1="446" y1="244" x2="470" y2="244" stroke="#1C7C74" stroke-width="1.5"/>
+    <text class="mono" x="480" y="248" font-size="10.5" fill="#6E7781" letter-spacing="2">CASE</text>
+    <text class="kr" x="446" y="274" font-size="13.5" fill="#6E7781">기사 22,292건의 보도 비중을 실제 청년</text>
+    <text class="kr" x="446" y="295" font-size="13.5" fill="#6E7781">통계와 맞대어, 실제보다 덜 보도된</text>
+    <text class="kr" x="446" y="316" font-size="13.5" fill="#6E7781">문제를 하나의 결론으로 짚어냈습니다.</text>
+  </g>
+
+  <!-- 03 Generate -->
+  <g>
+    <text class="mono" x="846" y="74" font-size="13" fill="#B4691F" font-weight="700" letter-spacing="2">03</text>
+    <circle cx="1036" cy="54" r="5" fill="none" stroke="#8C959F" stroke-width="1.2" stroke-dasharray="2 2"/>
+    <circle cx="1062" cy="54" r="5" fill="none" stroke="#8C959F" stroke-width="1.2" stroke-dasharray="2 2"/>
+    <circle class="fill" style="animation-delay:0.0s" cx="1062" cy="54" r="5" fill="#B4691F"/>
+    <circle cx="1088" cy="54" r="5" fill="none" stroke="#8C959F" stroke-width="1.2" stroke-dasharray="2 2"/>
+    <circle cx="1114" cy="54" r="5" fill="none" stroke="#8C959F" stroke-width="1.2" stroke-dasharray="2 2"/>
+    <circle cx="1140" cy="54" r="5" fill="none" stroke="#8C959F" stroke-width="1.2" stroke-dasharray="2 2"/>
+    <circle cx="1036" cy="74" r="5" fill="none" stroke="#8C959F" stroke-width="1.2" stroke-dasharray="2 2"/>
+    <circle cx="1062" cy="74" r="5" fill="none" stroke="#8C959F" stroke-width="1.2" stroke-dasharray="2 2"/>
+    <circle class="fill" style="animation-delay:1.5s" cx="1062" cy="74" r="5" fill="#B4691F"/>
+    <circle cx="1088" cy="74" r="5" fill="none" stroke="#8C959F" stroke-width="1.2" stroke-dasharray="2 2"/>
+    <circle cx="1114" cy="74" r="5" fill="none" stroke="#8C959F" stroke-width="1.2" stroke-dasharray="2 2"/>
+    <circle class="fill" style="animation-delay:0.5s" cx="1114" cy="74" r="5" fill="#B4691F"/>
+    <circle cx="1140" cy="74" r="5" fill="none" stroke="#8C959F" stroke-width="1.2" stroke-dasharray="2 2"/>
+    <circle cx="1036" cy="94" r="5" fill="none" stroke="#8C959F" stroke-width="1.2" stroke-dasharray="2 2"/>
+    <circle class="fill" style="animation-delay:1.0s" cx="1036" cy="94" r="5" fill="#B4691F"/>
+    <circle cx="1062" cy="94" r="5" fill="none" stroke="#8C959F" stroke-width="1.2" stroke-dasharray="2 2"/>
+    <circle cx="1088" cy="94" r="5" fill="none" stroke="#8C959F" stroke-width="1.2" stroke-dasharray="2 2"/>
+    <circle cx="1114" cy="94" r="5" fill="none" stroke="#8C959F" stroke-width="1.2" stroke-dasharray="2 2"/>
+    <circle cx="1140" cy="94" r="5" fill="none" stroke="#8C959F" stroke-width="1.2" stroke-dasharray="2 2"/>
+    <circle class="fill" style="animation-delay:2.0s" cx="1140" cy="94" r="5" fill="#B4691F"/>
+    <text class="en" x="845" y="150" font-size="38" fill="#1F2328" font-weight="700" letter-spacing="-.5">Generate</text>
+    <text class="kr" x="846" y="190" font-size="16" fill="#424A53">기존 데이터가 질문에 맞지 않으면</text>
+    <text class="kr" x="846" y="215" font-size="16" fill="#424A53">현장에서 고쳐 새로 만듭니다.</text>
+    <line x1="846" y1="244" x2="870" y2="244" stroke="#B4691F" stroke-width="1.5"/>
+    <text class="mono" x="880" y="248" font-size="10.5" fill="#6E7781" letter-spacing="2">CASE</text>
+    <text class="kr" x="846" y="274" font-size="13.5" fill="#6E7781">관광객이 설문에서 막히는 이유를 현장에서</text>
+    <text class="kr" x="846" y="295" font-size="13.5" fill="#6E7781">묻고 문항과 안내 자료를 고쳐,</text>
+    <text class="kr" x="846" y="316" font-size="13.5" fill="#6E7781">할당 대비 150%의 응답을 확보했습니다.</text>
+  </g>
+
+</svg>

@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 448" width="1200" height="448" role="img"
+     aria-label="Timeline 2018–2026. 학업: 부산대학교 미디어커뮤니케이션학과 학사 2018.03–2024.02, 석사 2024.03–2026.08. 현장: 서던포스트 현장 설문조사원 2018.06–11, 영남체육신문 축구부 기자 2021.10–2024.01. 연구: 한국연구재단 SSK 연구원(디지털정치표현랩) 2023.08–2026.09, 간호법 언론·여론 분석(대한간호협회 의뢰) 2023.06–12, 차별 보도 법제 비교(언론중재위원회 의뢰) 2024.04–11, 부산 청년 실태보고서(앵커 사업 분석팀 팀장) 2025.09–2026.08.">
+  <style>.kr{font-family:'Pretendard','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif} .en{font-family:'Helvetica Neue','SF Pro Display','Segoe UI',Arial,sans-serif}</style>
+
+  <!-- 배경 -->
+  <rect x="0.5" y="0.5" width="1199" height="447" rx="24" fill="#FFFFFF" stroke="#D8DEE4"/>
+
+  <!-- 연도 눈금 -->
+  <g>
+    <line x1="150.0" y1="62" x2="150.0" y2="424" stroke="#EAEEF2"/>
+    <text class="en" x="206.111" y="50" font-size="15" fill="#6E7781" font-weight="700" text-anchor="middle">2018</text>
+    <line x1="262.2" y1="62" x2="262.2" y2="424" stroke="#EAEEF2"/>
+    <text class="en" x="318.333" y="50" font-size="15" fill="#6E7781" font-weight="700" text-anchor="middle">2019</text>
+    <line x1="374.4" y1="62" x2="374.4" y2="424" stroke="#EAEEF2"/>
+    <text class="en" x="430.556" y="50" font-size="15" fill="#6E7781" font-weight="700" text-anchor="middle">2020</text>
+    <line x1="486.7" y1="62" x2="486.7" y2="424" stroke="#EAEEF2"/>
+    <text class="en" x="542.778" y="50" font-size="15" fill="#6E7781" font-weight="700" text-anchor="middle">2021</text>
+    <line x1="598.9" y1="62" x2="598.9" y2="424" stroke="#EAEEF2"/>
+    <text class="en" x="655" y="50" font-size="15" fill="#6E7781" font-weight="700" text-anchor="middle">2022</text>
+    <line x1="711.1" y1="62" x2="711.1" y2="424" stroke="#EAEEF2"/>
+    <text class="en" x="767.222" y="50" font-size="15" fill="#6E7781" font-weight="700" text-anchor="middle">2023</text>
+    <line x1="823.3" y1="62" x2="823.3" y2="424" stroke="#EAEEF2"/>
+    <text class="en" x="879.444" y="50" font-size="15" fill="#6E7781" font-weight="700" text-anchor="middle">2024</text>
+    <line x1="935.6" y1="62" x2="935.6" y2="424" stroke="#EAEEF2"/>
+    <text class="en" x="991.667" y="50" font-size="15" fill="#6E7781" font-weight="700" text-anchor="middle">2025</text>
+    <line x1="1047.8" y1="62" x2="1047.8" y2="424" stroke="#EAEEF2"/>
+    <text class="en" x="1103.89" y="50" font-size="15" fill="#6E7781" font-weight="700" text-anchor="middle">2026</text>
+    <line x1="1160.0" y1="62" x2="1160.0" y2="424" stroke="#EAEEF2"/>
+  </g>
+
+  <!-- 학업 -->
+  <g>
+    <rect x="168.7" y="95" width="673.3" height="30" rx="8" fill="#EEF1F4" stroke="#AEB9C7"/>
+    <text class="kr" x="182.704" y="115.5" font-size="16"><tspan font-weight="700" fill="#424A53">학사 · 부산대학교 미디어커뮤니케이션학과</tspan></text>
+    <rect x="842.0" y="95" width="280.6" height="30" rx="8" fill="#EEF1F4" stroke="#AEB9C7"/>
+    <text class="kr" x="856.037" y="115.5" font-size="16"><tspan font-weight="700" fill="#424A53">석사 · 부산대학교 대학원</tspan></text>
+  </g>
+  <text class="kr" x="48" y="116" font-size="17" fill="#1F2328" font-weight="800">학업</text>
+  <line x1="40" y1="144" x2="1160" y2="144" stroke="#D8DEE4"/>
+
+  <!-- 현장 -->
+  <g>
+    <rect x="196.8" y="163" width="56.1" height="30" rx="8" fill="#FBF0E3" stroke="#B4691F"/>
+    <text class="kr" x="264.87" y="183.5" font-size="16"><tspan font-weight="700" fill="#B4691F">서던포스트 현장 설문조사원</tspan></text>
+    <rect x="570.8" y="163" width="261.9" height="30" rx="8" fill="#FBF0E3" stroke="#B4691F"/>
+    <text class="kr" x="584.833" y="183.5" font-size="16"><tspan font-weight="700" fill="#8A4F14">영남체육신문 축구부 기자</tspan></text>
+  </g>
+  <text class="kr" x="48" y="184" font-size="17" fill="#1F2328" font-weight="800">현장</text>
+  <line x1="40" y1="212" x2="1160" y2="212" stroke="#D8DEE4"/>
+
+  <!-- 연구 -->
+  <g>
+    <rect x="776.6" y="231" width="355.4" height="30" rx="8" fill="#E6F3F1" stroke="#1C7C74"/>
+    <text class="kr" x="790.574" y="251.5" font-size="16"><tspan font-weight="700" fill="#145C56">한국연구재단 SSK 연구원</tspan><tspan dx="10" fill="#6E7781" font-size="14.5">디지털정치표현랩</tspan></text>
+    <rect x="757.9" y="279" width="65.5" height="30" rx="8" fill="#1C7C74" stroke="#1C7C74"/>
+    <text class="kr" x="745.87" y="299.5" font-size="16" text-anchor="end"><tspan font-weight="700" fill="#1F2328">간호법 언론 · 여론 분석</tspan><tspan dx="10" fill="#6E7781" font-size="14.5">대한간호협회 의뢰</tspan></text>
+    <rect x="851.4" y="327" width="74.8" height="30" rx="8" fill="#1C7C74" stroke="#1C7C74"/>
+    <text class="kr" x="839.389" y="347.5" font-size="16" text-anchor="end"><tspan font-weight="700" fill="#1F2328">차별 보도 법제 비교</tspan><tspan dx="10" fill="#6E7781" font-size="14.5">언론중재위원회 의뢰</tspan></text>
+    <rect x="1010.4" y="375" width="112.2" height="30" rx="8" fill="#1C7C74" stroke="#1C7C74"/>
+    <text class="kr" x="998.37" y="395.5" font-size="16" text-anchor="end"><tspan font-weight="700" fill="#1F2328">부산 청년 실태보고서</tspan><tspan dx="10" fill="#6E7781" font-size="14.5">앵커 사업 분석팀 팀장</tspan></text>
+  </g>
+  <text class="kr" x="48" y="324" font-size="17" fill="#1F2328" font-weight="800">연구</text>
+
+</svg>
