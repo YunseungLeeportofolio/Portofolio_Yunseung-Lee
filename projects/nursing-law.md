@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/의뢰%20연구-대한간호협회-1C7C74?style=flat-square&labelColor=343A40" alt="의뢰 연구: 대한간호협회"/>
   <img src="https://img.shields.io/badge/결과%20발표-협회%20임원진%20대상-C2410C?style=flat-square&labelColor=343A40" alt="결과 발표: 협회 임원진 대상"/>
   <br>
-  <img src="https://img.shields.io/badge/Method-LDA%20%7C%20의미연결망%20%7C%20딥러닝%20감성%20분석-5B6573?style=flat-square&labelColor=343A40" alt="Method: LDA, 의미연결망, 딥러닝 감성 분석"/>
+  <img src="https://img.shields.io/badge/Method-LDA%20%7C%20의미연결망%20%7C%20딥러닝%20감성%20분석-5B6573?style=flat-square&labelColor=343A40" alt="Method: LDA, 의미연결망, 딥러닝 감성 분석, 웹 크롤링"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 </p>
 
