@@ -2,7 +2,26 @@
 
 <br>
 
-<img src="../assets/feature-politician.svg" width="100%" alt="총선 후보 유튜브, 무엇이 통했나. 부산 총선 후보 35명의 유튜브 영상 376건. 공약 홍보 영상은 게시 비중 22.6%로 2위였지만 조회수 중앙값 348로 대면 선거 활동 영상 959보다 크게 낮음."/>
+<div align="center">
+
+<sub>FEATURED 03 &nbsp;·&nbsp; 『사회과학연구』 32(4) &nbsp;·&nbsp; 2025 &nbsp;·&nbsp; 제1저자</sub>
+
+# 총선 후보 유튜브, 무엇이 통했나
+
+**후보가 많이 올린 영상과 유권자가 반응한 영상은 같았을까?**
+
+`Disaggregate` &nbsp;`내용분석` &nbsp;`K-평균 군집화` &nbsp;`Kruskal-Wallis`
+
+</div>
+
+<!-- 핵심 숫자 3개: <h3> 안의 숫자와 <sub> 안의 설명만 바꾸면 됩니다 -->
+<table>
+<tr>
+<td align="center" width="33%"><h3>376건</h3><sub>제22대 총선 부산 후보 35명의<br>유튜브 영상</sub></td>
+<td align="center" width="33%"><h3>22.6%</h3><sub>공약 홍보 영상의 게시 비중<br>5개 유형 중 2위</sub></td>
+<td align="center" width="33%"><h3>348 vs 959</h3><sub>조회수 중앙값<br>공약 홍보 vs 대면 선거 활동</sub></td>
+</tr>
+</table>
 
 | 항목 | 내용 |
 |:--|:--|
