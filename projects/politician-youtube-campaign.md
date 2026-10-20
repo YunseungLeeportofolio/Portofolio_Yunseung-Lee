@@ -14,14 +14,6 @@
 
 </div>
 
-<table>
-<tr>
-<td align="center" width="33%"><h3>376건</h3><sub>제22대 총선 부산 후보 35명의<br>유튜브 영상</sub></td>
-<td align="center" width="33%"><h3>22.6%</h3><sub>공약 홍보 영상의 게시 비중<br>5개 유형 중 2위</sub></td>
-<td align="center" width="33%"><h3>348 vs 959</h3><sub>조회수 중앙값<br>공약 홍보 vs 대면 선거 활동</sub></td>
-</tr>
-</table>
-
 | 항목 | 내용 |
 |:--|:--|
 | 논문 | **정치인 유튜브 선거 캠페인 콘텐츠의 소구와 이용자 참여**<br><sub>Appeal and User Engagement in Politicians’ YouTube Electoral Campaign Content</sub> |
