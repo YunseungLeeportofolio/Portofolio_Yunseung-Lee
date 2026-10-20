@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 540" width="1200" height="540" role="img"
+     aria-label="많이 올린 것과 많이 반응한 것이 달랐습니다. 유형별 게시 비중과 조회수·댓글 수·좋아요 수 중앙값. 대면 선거 활동 34.6%, 959, 17.0, 100. 공식 홍보 14.4%, 883, 14.5, 76. 정치인 출연 미디어 20.5%, 842, 15.0, 82.5. 로고송 뮤직비디오 8.0%, 781, 9.5, 82.5. 공약 홍보 22.6%, 348, 7.0, 25.">
+  <style>.kr{font-family:'Pretendard','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif} .en{font-family:'Helvetica Neue','SF Pro Display','Segoe UI',Arial,sans-serif}</style>
+
+  <!-- 배경 -->
+  <rect x="0.5" y="0.5" width="1199" height="539" rx="24" fill="#FFFFFF" stroke="#D8DEE4"/>
+
+  <!-- 제목 -->
+  <text class="kr" x="40" y="62" font-size="23" fill="#1F2328" font-weight="800">많이 올린 것과 많이 반응한 것이 달랐습니다</text>
+
+  <!-- 열 제목 -->
+  <text class="kr" x="300" y="124" font-size="15.5" fill="#1F2328" font-weight="700">게시 비중</text>
+  <text class="kr" x="518" y="124" font-size="15.5" fill="#1F2328" font-weight="700">조회수 중앙값</text>
+  <text class="en" x="518" y="142" font-size="12.5" fill="#6E7781">H = 36.71***</text>
+  <text class="kr" x="736" y="124" font-size="15.5" fill="#1F2328" font-weight="700">댓글 수 중앙값</text>
+  <text class="en" x="736" y="142" font-size="12.5" fill="#6E7781">H = 23.66***</text>
+  <text class="kr" x="954" y="124" font-size="15.5" fill="#1F2328" font-weight="700">좋아요 수 중앙값</text>
+  <text class="en" x="954" y="142" font-size="12.5" fill="#6E7781">H = 22.92***</text>
+
+  <!-- 대면 선거 활동 -->
+  <g>
+    <line x1="40" y1="152" x2="1160" y2="152" stroke="#EAEEF2"/>
+    <text class="kr" x="40" y="187" font-size="17" fill="#1F2328" font-weight="700">대면 선거 활동</text>
+    <rect x="300" y="170" width="103.7" height="22" rx="5" fill="#1C7C74"/>
+    <text class="en" x="413.71" y="187" font-size="15" fill="#1C7C74" font-weight="700">34.6%</text>
+    <rect x="518" y="170" width="115.1" height="22" rx="5" fill="#1C7C74"/>
+    <text class="en" x="643.08" y="187" font-size="15" fill="#1C7C74" font-weight="700">959</text>
+    <rect x="736" y="170" width="102.0" height="22" rx="5" fill="#1C7C74"/>
+    <text class="en" x="848" y="187" font-size="15" fill="#1C7C74" font-weight="700">17.0</text>
+    <rect x="954" y="170" width="109.1" height="22" rx="5" fill="#1C7C74"/>
+    <text class="en" x="1073.09" y="187" font-size="15" fill="#1C7C74" font-weight="700">100.0</text>
+  </g>
+  <!-- 공식 홍보 -->
+  <g>
+    <line x1="40" y1="214" x2="1160" y2="214" stroke="#EAEEF2"/>
+    <text class="kr" x="40" y="249" font-size="17" fill="#424A53" font-weight="700">공식 홍보</text>
+    <rect x="300" y="232" width="43.1" height="22" rx="5" fill="#AEB9C7"/>
+    <text class="en" x="353.08" y="249" font-size="15" fill="#424A53" font-weight="700">14.4%</text>
+    <rect x="518" y="232" width="106.0" height="22" rx="5" fill="#AEB9C7"/>
+    <text class="en" x="633.96" y="249" font-size="15" fill="#424A53" font-weight="700">883</text>
+    <rect x="736" y="232" width="87.0" height="22" rx="5" fill="#AEB9C7"/>
+    <text class="en" x="833" y="249" font-size="15" fill="#424A53" font-weight="700">14.5</text>
+    <rect x="954" y="232" width="82.9" height="22" rx="5" fill="#AEB9C7"/>
+    <text class="en" x="1046.91" y="249" font-size="15" fill="#424A53" font-weight="700">76.0</text>
+  </g>
+  <!-- 정치인 출연 미디어 -->
+  <g>
+    <line x1="40" y1="276" x2="1160" y2="276" stroke="#EAEEF2"/>
+    <text class="kr" x="40" y="311" font-size="17" fill="#424A53" font-weight="700">정치인 출연 미디어</text>
+    <rect x="300" y="294" width="61.4" height="22" rx="5" fill="#AEB9C7"/>
+    <text class="en" x="371.44" y="311" font-size="15" fill="#424A53" font-weight="700">20.5%</text>
+    <rect x="518" y="294" width="101.0" height="22" rx="5" fill="#AEB9C7"/>
+    <text class="en" x="629.04" y="311" font-size="15" fill="#424A53" font-weight="700">842</text>
+    <rect x="736" y="294" width="90.0" height="22" rx="5" fill="#AEB9C7"/>
+    <text class="en" x="836" y="311" font-size="15" fill="#424A53" font-weight="700">15.0</text>
+    <rect x="954" y="294" width="90.0" height="22" rx="5" fill="#AEB9C7"/>
+    <text class="en" x="1054" y="311" font-size="15" fill="#424A53" font-weight="700">82.5</text>
+  </g>
+  <!-- 로고송 뮤직비디오 -->
+  <g>
+    <line x1="40" y1="338" x2="1160" y2="338" stroke="#EAEEF2"/>
+    <text class="kr" x="40" y="373" font-size="17" fill="#424A53" font-weight="700">로고송 뮤직비디오</text>
+    <rect x="300" y="356" width="23.9" height="22" rx="5" fill="#AEB9C7"/>
+    <text class="en" x="333.94" y="373" font-size="15" fill="#424A53" font-weight="700">8.0%</text>
+    <rect x="518" y="356" width="93.7" height="22" rx="5" fill="#AEB9C7"/>
+    <text class="en" x="621.72" y="373" font-size="15" fill="#424A53" font-weight="700">781</text>
+    <rect x="736" y="356" width="57.0" height="22" rx="5" fill="#AEB9C7"/>
+    <text class="en" x="803" y="373" font-size="15" fill="#424A53" font-weight="700">9.5</text>
+    <rect x="954" y="356" width="90.0" height="22" rx="5" fill="#AEB9C7"/>
+    <text class="en" x="1054" y="373" font-size="15" fill="#424A53" font-weight="700">82.5</text>
+  </g>
+  <!-- 공약 홍보 -->
+  <g>
+    <line x1="40" y1="400" x2="1160" y2="400" stroke="#EAEEF2"/>
+    <text class="kr" x="40" y="435" font-size="17" fill="#1F2328" font-weight="700">공약 홍보</text>
+    <rect x="300" y="418" width="67.8" height="22" rx="5" fill="#C9473C"/>
+    <text class="en" x="377.83" y="435" font-size="15" fill="#C9473C" font-weight="700">22.6%</text>
+    <rect x="518" y="418" width="41.8" height="22" rx="5" fill="#C9473C"/>
+    <text class="en" x="569.76" y="435" font-size="15" fill="#C9473C" font-weight="700">348</text>
+    <rect x="736" y="418" width="42.0" height="22" rx="5" fill="#C9473C"/>
+    <text class="en" x="788" y="435" font-size="15" fill="#C9473C" font-weight="700">7.0</text>
+    <rect x="954" y="418" width="27.3" height="22" rx="5" fill="#C9473C"/>
+    <text class="en" x="991.273" y="435" font-size="15" fill="#C9473C" font-weight="700">25.0</text>
+  </g>
+
+  <!-- 주석 -->
+  <text class="kr" x="40" y="506" font-size="14" fill="#6E7781">Kruskal-Wallis 검정 · 사후 검정에서 공약 홍보 영상만 다른 유형보다 참여가 유의하게 낮음 (댓글은 로고송과의 차이만 n.s.)</text>
+</svg>
