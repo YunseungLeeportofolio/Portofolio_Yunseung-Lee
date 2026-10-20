@@ -21,15 +21,6 @@
 
 </div>
 
-<!-- 핵심 숫자 3개: <h3> 안의 숫자와 <sub> 안의 설명만 바꾸면 됩니다 -->
-<table>
-<tr>
-<td align="center" width="33%"><h3>605건</h3><sub>YTN 기사 · 방송 스크립트를<br>11개 의제로 분류</sub></td>
-<td align="center" width="33%"><h3>68 : 4</h3><sub>대통령 거부권 보도 대<br>간호사 응원 · 감사 보도</sub></td>
-<td align="center" width="33%"><h3>0.7 vs 0.3</h3><sub>긍정 감성 점수<br>협회 유튜브 vs 온라인 커뮤니티</sub></td>
-</tr>
-</table>
-
 | 항목 | 내용 |
 |:--|:--|
 | 의뢰 | 대한간호협회 |
