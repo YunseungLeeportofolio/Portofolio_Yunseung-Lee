@@ -67,15 +67,7 @@
 
 <br>
 
-### 03 &nbsp;유튜브에 콘텐츠의 유형에 따라 이용자들의 반응 비교 &nbsp;<sub>`2024.05 – 2025.12`</sub>
-
-<table>
-  <tr>
-    <td align="center" width="33%"><h3>376건</h3>부산 총선 후보 35명의<br>유튜브 영상</td>
-    <td align="center" width="33%"><h3>22.6%</h3>공약 홍보 영상의 게시 비중<br>5개 유형 중 2위</td>
-    <td align="center" width="33%"><h3>348 vs 959</h3>조회수 중앙값<br>공약 홍보 vs 대면 선거 활동</td>
-  </tr>
-</table>
+### 03 &nbsp;유튜브에 콘텐츠의 유형에 따라 이용자들의 반응 비교 &nbsp;`2024.05 – 2025.12`</sub>
 
 **『사회과학연구』 32권4호 제1저자** &nbsp; `Python` `K-means` `Kruskal-Wallis` `내용분석`
 
