@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560" role="img"
+     aria-label="부산일보·국제신문 청년 기사 2만 건의 BERTopic 의제 비중: 고용 · 창업 지원 35.8%, 범죄 · 사건 사고 10.7%, 인구 유출 · 지역 소멸 3.5%, 대출 · 주거 비용 3.4%, 건강 · 저출산 1.3%, 탄소중립 일자리 0.8%, 젠더 갈등 0.3%, 대기업 공채 0.2%. 미분류 43.8%.">
+  <style>.kr{font-family:'Pretendard','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif} .en{font-family:'Helvetica Neue','SF Pro Display','Segoe UI',Arial,sans-serif}</style>
+
+  <!-- 배경 -->
+  <rect x="0.5" y="0.5" width="1199" height="559" rx="24" fill="#FFFFFF" stroke="#D8DEE4"/>
+
+  <!-- 제목 -->
+  <text class="kr" x="40.0" y="62.0" font-size="23" fill="#1F2328" font-weight="800">보도는 고용 · 창업에 몰렸고, 유출 · 주거 · 건강은 주변에 머물렀습니다</text>
+
+  <!-- 의제별 보도 비중 -->
+  <g>
+    <text class="kr" x="40.0" y="98.0" font-size="14" fill="#6E7781" font-weight="600">전체 기사 중 비중 (n = 20,000)</text>
+    <text class="kr" x="40.0" y="137.0" font-size="16" fill="#1F2328" font-weight="700">고용 · 창업 지원</text>
+    <rect x="250" y="120" width="417.9" height="24" rx="5" fill="#1C7C74"/>
+    <text class="en" x="677.9" y="138.0" font-size="16" fill="#1C7C74" font-weight="800">35.8%</text>
+    <text class="kr" x="40.0" y="183.0" font-size="16" fill="#424A53">범죄 · 사건 사고</text>
+    <rect x="250" y="166" width="125.1" height="24" rx="5" fill="#AEB9C7"/>
+    <text class="en" x="385.1" y="184.0" font-size="16" fill="#6E7781" font-weight="800">10.7%</text>
+    <text class="kr" x="40.0" y="229.0" font-size="16" fill="#1F2328" font-weight="700">인구 유출 · 지역 소멸</text>
+    <rect x="250" y="212" width="40.7" height="24" rx="5" fill="#C9473C"/>
+    <text class="en" x="300.7" y="230.0" font-size="16" fill="#C9473C" font-weight="800">3.5%</text>
+    <text class="kr" x="40.0" y="275.0" font-size="16" fill="#1F2328" font-weight="700">대출 · 주거 비용</text>
+    <rect x="250" y="258" width="39.5" height="24" rx="5" fill="#C9473C"/>
+    <text class="en" x="299.6" y="276.0" font-size="16" fill="#C9473C" font-weight="800">3.4%</text>
+    <text class="kr" x="40.0" y="321.0" font-size="16" fill="#1F2328" font-weight="700">건강 · 저출산</text>
+    <rect x="250" y="304" width="15.0" height="24" rx="5" fill="#C9473C"/>
+    <text class="en" x="275.0" y="322.0" font-size="16" fill="#C9473C" font-weight="800">1.3%</text>
+    <text class="kr" x="40.0" y="367.0" font-size="16" fill="#424A53">탄소중립 일자리</text>
+    <rect x="250" y="350" width="8.9" height="24" rx="5" fill="#AEB9C7"/>
+    <text class="en" x="268.9" y="368.0" font-size="16" fill="#6E7781" font-weight="800">0.8%</text>
+    <text class="kr" x="40.0" y="413.0" font-size="16" fill="#424A53">젠더 갈등</text>
+    <rect x="250" y="396" width="3.0" height="24" rx="5" fill="#AEB9C7"/>
+    <text class="en" x="263.0" y="414.0" font-size="16" fill="#6E7781" font-weight="800">0.3%</text>
+    <text class="kr" x="40.0" y="459.0" font-size="16" fill="#424A53">대기업 공채</text>
+    <rect x="250" y="442" width="3.0" height="24" rx="5" fill="#AEB9C7"/>
+    <text class="en" x="263.0" y="460.0" font-size="16" fill="#6E7781" font-weight="800">0.2%</text>
+    <text class="kr" x="40.0" y="502.0" font-size="13.5" fill="#6E7781">어느 의제에도 묶이지 않은 기사(미분류) 43.8% 포함 기준</text>
+  </g>
+
+  <!-- 언론사별로 나누면 -->
+  <rect x="766" y="84" width="394" height="406" rx="16" fill="#F6F8FA" stroke="#D8DEE4"/>
+  <text class="kr" x="790.0" y="118.0" font-size="17" fill="#1F2328" font-weight="800">언론사별로 나누면</text>
+  <rect x="790" y="134" width="12" height="12" rx="3" fill="#3563C9"/>
+  <text class="kr" x="808.0" y="145.0" font-size="13.5" fill="#424A53">부산일보</text>
+  <rect x="880" y="134" width="12" height="12" rx="3" fill="#B4691F"/>
+  <text class="kr" x="898.0" y="145.0" font-size="13.5" fill="#424A53">국제신문</text>
+  <g>
+    <text class="kr" x="790.0" y="186.0" font-size="15" fill="#1F2328" font-weight="700">인구 유출 · 지역 소멸</text>
+    <rect x="790" y="198" width="84.4" height="20" rx="5" fill="#3563C9"/>
+    <text class="en" x="882.4" y="214.0" font-size="14" fill="#3563C9" font-weight="800">2.5%</text>
+    <rect x="790" y="226" width="262.4" height="20" rx="5" fill="#B4691F"/>
+    <text class="en" x="1060.4" y="242.0" font-size="14" fill="#B4691F" font-weight="800">7.9%</text>
+    <text class="kr" x="790.0" y="278.0" font-size="15" fill="#1F2328" font-weight="700">대출 · 주거 비용</text>
+    <rect x="790" y="290" width="110.4" height="20" rx="5" fill="#3563C9"/>
+    <text class="en" x="908.4" y="306.0" font-size="14" fill="#3563C9" font-weight="800">3.3%</text>
+    <rect x="790" y="318" width="125.2" height="20" rx="5" fill="#B4691F"/>
+    <text class="en" x="923.2" y="334.0" font-size="14" fill="#B4691F" font-weight="800">3.8%</text>
+    <text class="kr" x="790.0" y="370.0" font-size="15" fill="#1F2328" font-weight="700">건강 · 저출산</text>
+    <rect x="790" y="382" width="30.8" height="20" rx="5" fill="#3563C9"/>
+    <text class="en" x="828.8" y="398.0" font-size="14" fill="#3563C9" font-weight="800">0.9%</text>
+    <rect x="790" y="410" width="98.1" height="20" rx="5" fill="#B4691F"/>
+    <text class="en" x="896.1" y="426.0" font-size="14" fill="#B4691F" font-weight="800">2.9%</text>
+  </g>
+  <text class="kr" x="790.0" y="464.0" font-size="13.5" fill="#424A53">국제신문은 인구 유출을 부산일보의 약 3배 비중으로 다뤘습니다</text>
+
+  <!-- 출처 -->
+  <text class="kr" x="40.0" y="530.0" font-size="13.5" fill="#6E7781">부산일보 · 국제신문 청년 일반 기사 20,000건 (2022.03 – 2026.04), BERTopic 의제 분류 · 출처: 빅카인즈</text>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="1200" height="480" role="img"
+     aria-label="2015년 대비 2023년 부산 청년 인구는 18.3% 감소(1,038,011명 → 848,191명), 청년 1인가구는 52.8% 증가(114,013가구 → 174,272가구). 부모와 함께 사는 청년 57.7%(2024).">
+  <style>.kr{font-family:'Pretendard','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif} .en{font-family:'Helvetica Neue','SF Pro Display','Segoe UI',Arial,sans-serif}</style>
+
+  <!-- 배경 -->
+  <rect x="0.5" y="0.5" width="1199" height="479" rx="24" fill="#FFFFFF" stroke="#D8DEE4"/>
+
+  <!-- 제목 -->
+  <text class="kr" x="40.0" y="62.0" font-size="23" fill="#1F2328" font-weight="800">청년은 줄었는데, 혼자 사는 청년은 늘었습니다</text>
+
+  <!-- 기울기 그래프 (2015 = 100) -->
+  <g>
+    <line x1="120" y1="286.7" x2="560" y2="286.7" stroke="#EAEEF2" stroke-dasharray="4 4"/>
+    <text class="en" x="108.0" y="291.7" font-size="13" fill="#6E7781" text-anchor="end">100</text>
+    <line x1="120" y1="110" x2="120" y2="380" stroke="#D8DEE4"/>
+    <text class="en" x="120.0" y="406.0" font-size="16" fill="#6E7781" font-weight="700" text-anchor="middle">2015</text>
+    <line x1="560" y1="110" x2="560" y2="380" stroke="#D8DEE4"/>
+    <text class="en" x="560.0" y="406.0" font-size="16" fill="#6E7781" font-weight="700" text-anchor="middle">2023</text>
+    <line x1="120" y1="286.7" x2="560" y2="337.5" stroke="#C9473C" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="120" cy="286.7" r="7" fill="#C9473C"/>
+    <circle cx="560" cy="337.5" r="7" fill="#C9473C"/>
+    <text class="kr" x="580.0" y="333.5" font-size="22" fill="#C9473C" font-weight="800">청년 인구 −18.3%</text>
+    <text class="kr" x="580.0" y="359.5" font-size="14.5" fill="#424A53">1,038,011명 → 848,191명</text>
+    <line x1="120" y1="286.7" x2="560" y2="139.9" stroke="#1C7C74" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="120" cy="286.7" r="7" fill="#1C7C74"/>
+    <circle cx="560" cy="139.9" r="7" fill="#1C7C74"/>
+    <text class="kr" x="580.0" y="135.9" font-size="22" fill="#1C7C74" font-weight="800">청년 1인가구 +52.8%</text>
+    <text class="kr" x="580.0" y="161.9" font-size="14.5" fill="#424A53">114,013가구 → 174,272가구</text>
+  </g>
+
+  <!-- 거주 형태 -->
+  <g>
+    <rect x="880" y="104" width="280" height="124" rx="16" fill="#FBE9E7"/>
+    <text class="en" x="904.0" y="160.0" font-size="38" fill="#C9473C" font-weight="800">57.7%</text>
+    <text class="kr" x="904.0" y="190.0" font-size="16" fill="#1F2328" font-weight="700">부모와 함께 사는 청년</text>
+    <text class="kr" x="904.0" y="212.0" font-size="13.5" fill="#6E7781">2024년</text>
+    <rect x="880" y="244" width="280" height="124" rx="16" fill="#E6F3F1"/>
+    <text class="en" x="904.0" y="300.0" font-size="38" fill="#1C7C74" font-weight="800">33.2%</text>
+    <text class="kr" x="904.0" y="330.0" font-size="16" fill="#1F2328" font-weight="700">청년 1인가구 비율</text>
+    <text class="kr" x="904.0" y="352.0" font-size="13.5" fill="#6E7781">2021 · 2022년, 분석 기간 최고</text>
+  </g>
+
+  <!-- 출처 -->
+  <text class="kr" x="40.0" y="450.0" font-size="13.5" fill="#6E7781">2015년 = 100 기준 · 출처: Big-데이터웨이브, KOSIS · 「2026년 부산 청년 실태보고서」</text>
+</svg>

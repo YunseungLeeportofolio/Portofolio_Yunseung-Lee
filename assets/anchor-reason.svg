@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" role="img"
+     aria-label="청년 전출 사유: 직업 25.61% → 30.67%, 주거 38.93% → 25.97% (2014 → 2023). 타 지역 이사 희망 이유 1위 &#x27;더 나은 일자리&#x27; 51.5% (2024).">
+  <style>.kr{font-family:'Pretendard','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif} .en{font-family:'Helvetica Neue','SF Pro Display','Segoe UI',Arial,sans-serif}</style>
+
+  <!-- 배경 -->
+  <rect x="0.5" y="0.5" width="1199" height="439" rx="24" fill="#FFFFFF" stroke="#D8DEE4"/>
+
+  <!-- 제목 -->
+  <text class="kr" x="40.0" y="62.0" font-size="23" fill="#1F2328" font-weight="800">부산을 떠나는 이유는 점점 일자리가 되고 있습니다</text>
+
+  <!-- 전출 사유 기울기 그래프 -->
+  <g>
+    <line x1="140" y1="110" x2="140" y2="360" stroke="#D8DEE4"/>
+    <text class="en" x="140.0" y="386.0" font-size="16" fill="#6E7781" font-weight="700" text-anchor="middle">2014</text>
+    <line x1="560" y1="110" x2="560" y2="360" stroke="#D8DEE4"/>
+    <text class="en" x="560.0" y="386.0" font-size="16" fill="#6E7781" font-weight="700" text-anchor="middle">2023</text>
+    <line x1="140" y1="291.4" x2="560" y2="238.4" stroke="#C9473C" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="140" cy="291.4" r="7" fill="#C9473C"/>
+    <circle cx="560" cy="238.4" r="7" fill="#C9473C"/>
+    <text class="en" x="124.0" y="297.4" font-size="16" fill="#C9473C" font-weight="800" text-anchor="end">25.6%</text>
+    <text class="kr" x="578.0" y="244.4" font-size="19" fill="#C9473C" font-weight="800">직업 때문에  30.7%</text>
+    <line x1="140" y1="152.1" x2="560" y2="287.6" stroke="#B4691F" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="140" cy="152.1" r="7" fill="#B4691F"/>
+    <circle cx="560" cy="287.6" r="7" fill="#B4691F"/>
+    <text class="en" x="124.0" y="158.1" font-size="16" fill="#B4691F" font-weight="800" text-anchor="end">38.9%</text>
+    <text class="kr" x="578.0" y="293.6" font-size="19" fill="#B4691F" font-weight="800">주거 때문에  26.0%</text>
+  </g>
+
+  <!-- 이사 희망 이유 -->
+  <g>
+    <rect x="860" y="104" width="300" height="264" rx="16" fill="#F6F8FA" stroke="#D8DEE4"/>
+    <text class="kr" x="886.0" y="142.0" font-size="15" fill="#6E7781" font-weight="600">다른 지역으로 이사하고 싶은 이유 1위</text>
+    <text class="en" x="886.0" y="214.0" font-size="52" fill="#C9473C" font-weight="800">51.5%</text>
+    <text class="kr" x="886.0" y="252.0" font-size="18" fill="#1F2328" font-weight="800">‘더 나은 일자리 기회’</text>
+    <rect x="886" y="284" width="248" height="16" rx="8" fill="#EAEEF2"/>
+    <rect x="886" y="284" width="127.7" height="16" rx="8" fill="#C9473C"/>
+    <text class="kr" x="886.0" y="334.0" font-size="14" fill="#6E7781">2024년 · 응답자의 절반 이상</text>
+  </g>
+
+  <!-- 출처 -->
+  <text class="kr" x="40.0" y="410.0" font-size="13.5" fill="#6E7781">전출 사유: 청년(만 18–39세) 전출자 중 비율 · 출처: Big-데이터웨이브, KOSIS</text>
+</svg>

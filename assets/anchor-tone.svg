@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 590" width="1200" height="590" role="img"
+     aria-label="의제별 긍정·부정 논조 차이 t값: 고용 · 창업 지원 129.75, 범죄 · 사건 사고 -41.19, 인구 유출 · 지역 소멸 11.08, 대출 · 주거 비용 1.01 (n.s.), 건강 · 저출산 2.95, 탄소중립 일자리 11.78, 젠더 갈등 0.74 (n.s.), 대기업 공채 11.34.">
+  <style>.kr{font-family:'Pretendard','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif} .en{font-family:'Helvetica Neue','SF Pro Display','Segoe UI',Arial,sans-serif}</style>
+
+  <!-- 배경 -->
+  <rect x="0.5" y="0.5" width="1199" height="589" rx="24" fill="#FFFFFF" stroke="#D8DEE4"/>
+
+  <!-- 제목 -->
+  <text class="kr" x="40.0" y="62.0" font-size="23" fill="#1F2328" font-weight="800">인구 유출 같은 위기 의제도 긍정적인 논조로 보도됐습니다</text>
+
+  <!-- 0 기준선과 방향 -->
+  <g>
+    <line x1="470" y1="104" x2="470" y2="470" stroke="#D8DEE4" stroke-width="1.5"/>
+    <text class="kr" x="458.0" y="96.0" font-size="13.5" fill="#C9473C" font-weight="700" text-anchor="end">← 부정 논조가 강함</text>
+    <text class="kr" x="482.0" y="96.0" font-size="13.5" fill="#1C7C74" font-weight="700">긍정 논조가 강함 →</text>
+  </g>
+
+  <!-- 의제별 막대 -->
+  <g>
+    <text class="kr" x="40.0" y="140.0" font-size="16" fill="#424A53">고용 · 창업 지원</text>
+    <rect x="470.0" y="124" width="570.9" height="24" rx="5" fill="#1C7C74"/>
+    <text class="en" x="1050.9" y="142.0" font-size="15" fill="#1C7C74" font-weight="800">t = 129.75</text>
+    <text class="kr" x="40.0" y="184.0" font-size="16" fill="#424A53">범죄 · 사건 사고</text>
+    <rect x="288.8" y="168" width="181.2" height="24" rx="5" fill="#C9473C"/>
+    <text class="en" x="278.8" y="186.0" font-size="15" fill="#C9473C" font-weight="800" text-anchor="end">t = -41.19</text>
+    <text class="kr" x="40.0" y="228.0" font-size="16" fill="#1F2328" font-weight="700">인구 유출 · 지역 소멸</text>
+    <rect x="470.0" y="212" width="48.8" height="24" rx="5" fill="#1C7C74"/>
+    <text class="en" x="528.8" y="230.0" font-size="15" fill="#1C7C74" font-weight="800">t = 11.08</text>
+    <text class="kr" x="40.0" y="272.0" font-size="16" fill="#1F2328" font-weight="700">대출 · 주거 비용</text>
+    <rect x="470.0" y="256" width="4.4" height="24" rx="5" fill="#AEB9C7"/>
+    <text class="en" x="484.4" y="274.0" font-size="15" fill="#6E7781" font-weight="800">t = 1.01  n.s.</text>
+    <text class="kr" x="40.0" y="316.0" font-size="16" fill="#424A53">건강 · 저출산</text>
+    <rect x="470.0" y="300" width="13.0" height="24" rx="5" fill="#1C7C74"/>
+    <text class="en" x="493.0" y="318.0" font-size="15" fill="#1C7C74" font-weight="800">t = 2.95</text>
+    <text class="kr" x="40.0" y="360.0" font-size="16" fill="#424A53">탄소중립 일자리</text>
+    <rect x="470.0" y="344" width="51.8" height="24" rx="5" fill="#1C7C74"/>
+    <text class="en" x="531.8" y="362.0" font-size="15" fill="#1C7C74" font-weight="800">t = 11.78</text>
+    <text class="kr" x="40.0" y="404.0" font-size="16" fill="#424A53">젠더 갈등</text>
+    <rect x="470.0" y="388" width="3.3" height="24" rx="5" fill="#AEB9C7"/>
+    <text class="en" x="483.3" y="406.0" font-size="15" fill="#6E7781" font-weight="800">t = 0.74  n.s.</text>
+    <text class="kr" x="40.0" y="448.0" font-size="16" fill="#424A53">대기업 공채</text>
+    <rect x="470.0" y="432" width="49.9" height="24" rx="5" fill="#1C7C74"/>
+    <text class="en" x="529.9" y="450.0" font-size="15" fill="#1C7C74" font-weight="800">t = 11.34</text>
+  </g>
+
+  <text class="kr" x="40.0" y="510.0" font-size="14.5" fill="#424A53">인구 유출은 위기 의제인데도 대응 정책 · 지원 사업 소개 위주로 긍정 논조가 우세했고, 대출 · 주거 비용은 긍정과 부정의 차이가 없었습니다.</text>
+  <!-- 출처 -->
+  <text class="kr" x="40.0" y="560.0" font-size="13.5" fill="#6E7781">의제별 기사의 긍정 · 부정 감성 점수 차이 t-검정 (n.s. = 유의하지 않음) · 「2026년 부산 청년 실태보고서」</text>
+</svg>
