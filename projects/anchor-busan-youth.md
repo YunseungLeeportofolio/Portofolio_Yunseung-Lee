@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<sub>FEATURED 03 &nbsp;·&nbsp; 2025.09 – 2026.08 &nbsp;·&nbsp; 부산대학교 앵커사업단  &nbsp;·&nbsp; 총괄</sub>
+<sub>FEATURED 01 &nbsp;·&nbsp; 2025.09 – 2026.08 &nbsp;·&nbsp; 부산대학교 앵커사업단  &nbsp;·&nbsp; 총괄</sub>
 
 # 부산대학교 앵커사업단 부산 거주 청년 및 유학생 실태 보고서
 
