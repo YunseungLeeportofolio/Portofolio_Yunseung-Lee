@@ -8,13 +8,13 @@
 
 # 부산대학교 앵커사업단 부산 거주 청년 및 유학생 실태 보고서
 
-**언론은 간호법을 어떻게 보도했고, 온라인 이용자는 어떻게 반응했을까?**
+**언론은 부산 청년·유학생이 실제로 겪는 문제를 그만큼 다루고 있을까?**
 
 <p>
-  <img src="https://img.shields.io/badge/의뢰%20연구-대한간호협회-1C7C74?style=flat-square&labelColor=343A40" alt="의뢰 연구: 대한간호협회"/>
-  <img src="https://img.shields.io/badge/결과%20발표-협회%20임원진%20대상-C2410C?style=flat-square&labelColor=343A40" alt="결과 발표: 협회 임원진 대상"/>
+  <img src="https://img.shields.io/badge/지역%20사업-부산형%20앵커(ANCHOR)-1C7C74?style=flat-square&labelColor=343A40" alt="지역 사업: 부산형 앵커(ANCHOR)"/>
+  <img src="https://img.shields.io/badge/결과%20발표-앵커사업단%20심사위원회-C2410C?style=flat-square&labelColor=343A40" alt="결과 발표: 앵커사업단 심사위원회"/>
   <br>
-  <img src="https://img.shields.io/badge/Method-웹%20크롤링%20%7C%20LDA%20%7C%20의미연결망%20%7C%20딥러닝%20감성%20분석-5B6573?style=flat-square&labelColor=343A40" alt="Method: 웹 크롤링, LDA, 의미연결망, 딥러닝 감성 분석"/>
+  <img src="https://img.shields.io/badge/Method-BERTopic%20%7C%20감성%20분석%20%7C%PCA20%7C%공공데이터%20%7C%20시계열%20분석%20%7C%20상관분석-5B6573?style=flat-square&labelColor=343A40" alt="Method: BERTopic, 감성 분석, PCA, 공공데이터, 시계열 분석, 상관분석"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 </p>
 
@@ -22,8 +22,8 @@
 
 | 항목 | 내용 |
 |:--|:--|
-| 보고서 | **2023 간호법 제정에 관한 국내 언론보도와 국민여론 분석** |
-| 의뢰 | 대한간호협회 |
+| 보고서 | **부산 거주 청년 및 유학생 실태 보고서** |
+| 사업 | 부산대학교 앵커사업단  |
 | 역할 | 보조연구원 </sub> · 데이터 수집 · 분석, 결과 기술, 발표 자료 초안 |
 | 데이터 | 빅카인즈 보도 (2021.01 – 2023.05) · YTN 방송 스크립트 **605건** · 온라인 커뮤니티 4곳 게시글 · 협회 유튜브 댓글 **4,336개** |
 | 공개 자료 | [언론 보도 데이터 (CSV)](../assets/data/medical_all.csv) &nbsp;·&nbsp; [유튜브 댓글 데이터 (CSV)](../assets/data/YTC.csv) &nbsp;·&nbsp; [커뮤니티 댓글 데이터 (CSV)](../assets/data/sentiment_analysis_result_fm.csv) &nbsp;·&nbsp; [변수 설명](../assets/data/README1.md) |
