@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/지역%20사업-부산형%20앵커(ANCHOR)-1C7C74?style=flat-square&labelColor=343A40" alt="지역 사업: 부산형 앵커(ANCHOR)"/>
   <img src="https://img.shields.io/badge/결과%20발표-앵커사업단%20심사위원회-C2410C?style=flat-square&labelColor=343A40" alt="결과 발표: 앵커사업단 심사위원회"/>
   <br>
-  <img src="https://img.shields.io/badge/Method-BERTopic%20%7C%20감성%20분석%20%7C%PCA20%7C%공공데이터%20%7C%20시계열%20분석%20%7C%20상관분석-5B6573?style=flat-square&labelColor=343A40" alt="Method: BERTopic, 감성 분석, PCA, 공공데이터, 시계열 분석, 상관분석"/>
+  <img src="https://img.shields.io/badge/Method-BERTopic%20%7C%20감성%20분석%20%7C%20PCA%20%7C%20공공데이터%20%7C%20시계열%20분석%20%7C%20상관분석-5B6573?style=flat-square&labelColor=343A40" alt="Method: BERTopic, 감성 분석, PCA, 공공데이터, 시계열 분석, 상관분석"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 </p>
 
@@ -24,9 +24,9 @@
 |:--|:--|
 | 보고서 | **부산 거주 청년 및 유학생 실태 보고서** |
 | 사업 | 부산대학교 앵커사업단  |
-| 역할 | 보조연구원 </sub> · 데이터 수집 · 분석, 결과 기술, 발표 자료 초안 |
-| 데이터 | 빅카인즈 보도 (2021.01 – 2023.05) · YTN 방송 스크립트 **605건** · 온라인 커뮤니티 4곳 게시글 · 협회 유튜브 댓글 **4,336개** |
-| 공개 자료 | [언론 보도 데이터 (CSV)](../assets/data/medical_all.csv) &nbsp;·&nbsp; [유튜브 댓글 데이터 (CSV)](../assets/data/YTC.csv) &nbsp;·&nbsp; [커뮤니티 댓글 데이터 (CSV)](../assets/data/sentiment_analysis_result_fm.csv) &nbsp;·&nbsp; [변수 설명](../assets/data/README1.md) |
+| 역할 | 연구원 </sub> · 데이터 수집 · 분석, 결과 기술, 발표 |
+| 데이터 | 부산일보 & 국제신문 기사 (2021.04 – 2026.04) **2,2292건** · KOSIS & Big-데이터웨이브  **4,336개** |
+| 공개 자료 | [Big-데이터웨이브 ](https://data.busan.go.kr/bdip/) &nbsp;·&nbsp; [KOSIS](https://kosis.kr/index/index.do) &nbsp;·&nbsp; [언론 데이터 (CSV)](../assets/data/sentiment_analysis_result_fm.csv) &nbsp;·&nbsp; [분석 코드](../assets/data/visualization.py) |
 
 <br>
 <br>
