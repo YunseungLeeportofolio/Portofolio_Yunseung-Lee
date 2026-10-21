@@ -1,8 +1,4 @@
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=26&duration=3500&pause=1500&color=11A5A0&center=true&vCenter=true&width=720&height=56&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EC%97%AC%EB%A1%A0+%ED%95%B4%EC%84%9D%EA%B0%80+%EC%9D%B4%EC%9C%A4%EC%8A%B9%EC%9E%85%EB%8B%88%EB%8B%A4.;%ED%8F%89%EA%B7%A0+%EB%92%A4%EC%97%90+%EA%B0%80%EB%A0%A4%EC%A7%84+%EC%8B%A4%EC%A0%9C%EB%A5%BC+%EC%9D%BD%EC%8A%B5%EB%8B%88%EB%8B%A4." alt="안녕하세요, 여론 해석가 이윤승입니다."/>
-
-</div>
 
 <br>
 
