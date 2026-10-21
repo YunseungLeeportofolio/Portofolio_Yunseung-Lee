@@ -29,6 +29,7 @@
 | 공개 자료 | [Big-데이터웨이브 ](https://data.busan.go.kr/bdip/) &nbsp;·&nbsp; [KOSIS](https://kosis.kr/index/index.do) &nbsp;·&nbsp; [언론 데이터 (CSV)](../assets/data/sentiment_analysis_result_fm.csv) &nbsp;·&nbsp; [분석 코드](../assets/code/anchor_statistics.py) &nbsp;·&nbsp; [변인 생성](../assets/data/README2.md)|
 
 <br>
+
 ## 연구 문제
 
 앵커사업단 빅데이터 분석팀은 부산의 청년 인구 감소 문제를 정리해 지역 정책의 기초자료로 삼고자 했습니다. 지역 언론은 지역의 문제를 진단하고 해결책을 제시하는 역할을 한다는 점에서, 언론이 무엇을 다루는지에 따라 지자체의 정책에 영향을 미칩니다. 그래서 통계로 청년과 유학생의 현실을 먼저 정리한 후, 지역 언론이 다룬 청년과 유학생 의제를 비교하여 둘이 어긋나는 지점을 찾았습니다.
