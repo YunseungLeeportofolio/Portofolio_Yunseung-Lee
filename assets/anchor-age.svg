@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img"
+     aria-label="청년 전체로 보면 8년간 부산 청년 인구 18.3% 감소, 이사 이유 1위는 더 나은 일자리(51.5%). 연령대로 나누면 18–24세 대학 입학기는 순유입, 25–29세 사회 진출기는 5,445명 순유출로 가장 큼.">
+  <style>.kr{font-family:'Pretendard','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif} .en{font-family:'Helvetica Neue','SF Pro Display','Segoe UI',Arial,sans-serif} .mono{font-family:'SF Mono',Menlo,Consolas,'Courier New',monospace;letter-spacing:1.5px}</style>
+
+  <!-- 배경 -->
+  <rect x="0.5" y="0.5" width="1199" height="419" rx="24" fill="#FFFFFF" stroke="#D8DEE4"/>
+
+  <!-- 제목 -->
+  <text class="kr" x="40" y="62" font-size="23" fill="#1F2328" font-weight="800">청년을 연령대로 나누자, 떠나는 시점이 보였습니다</text>
+
+  <!-- 하나로 보면 -->
+  <g>
+    <rect x="40" y="100" width="480" height="220" rx="16" fill="#F6F8FA" stroke="#D8DEE4"/>
+    <text class="kr" x="68" y="140" font-size="15" fill="#6E7781" font-weight="600">하나로 보면 · 청년 만 18–39세</text>
+    <text class="en" x="68" y="210" font-size="56" fill="#C9473C" font-weight="800">−18.3%</text>
+    <text class="kr" x="68" y="248" font-size="18" fill="#1F2328" font-weight="700">8년간 줄어든 부산 청년 인구</text>
+    <text class="kr" x="68" y="282" font-size="15.5" fill="#424A53">이사 이유 1위 ‘더 나은 일자리’ (51.5%)</text>
+  </g>
+  <line x1="534" y1="210" x2="564" y2="210" stroke="#6E7781" stroke-width="2"/>
+  <path d="M562 204 L570 210 L562 216" fill="none" stroke="#6E7781" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- 나눠 보면: 18–24세 -->
+  <g>
+    <rect x="584" y="100" width="576" height="102" rx="14" fill="#E6F3F1"/>
+    <rect x="584" y="100" width="6" height="102" rx="3" fill="#1C7C74"/>
+    <text class="en" x="614" y="144" font-size="26" fill="#1F2328" font-weight="800">18–24세</text>
+    <text class="kr" x="614" y="174" font-size="15" fill="#6E7781">대학 입학기</text>
+    <text class="kr" x="794" y="144" font-size="23" fill="#1C7C74" font-weight="800">순유입</text>
+    <text class="kr" x="794" y="174" font-size="15.5" fill="#424A53">진학으로 2,406명이 들어오는 시기</text>
+  </g>
+  <!-- 나눠 보면: 25–29세 -->
+  <g>
+    <rect x="584" y="218" width="576" height="102" rx="14" fill="#FBE9E7"/>
+    <rect x="584" y="218" width="6" height="102" rx="3" fill="#C9473C"/>
+    <text class="en" x="614" y="262" font-size="26" fill="#1F2328" font-weight="800">25–29세</text>
+    <text class="kr" x="614" y="292" font-size="15" fill="#6E7781">사회 진출기</text>
+    <text class="kr" x="794" y="262" font-size="23" fill="#C9473C" font-weight="800">순유출 최대</text>
+    <text class="kr" x="794" y="292" font-size="15.5" fill="#424A53">5,445명이 빠져나가는 구간</text>
+  </g>
+
+  <text class="kr" x="40" y="380" font-size="15" fill="#6E7781">평균 하나로 보면 진학으로 들어오는 흐름과 취업기에 떠나는 흐름이 서로를 가립니다.</text>
+</svg>
