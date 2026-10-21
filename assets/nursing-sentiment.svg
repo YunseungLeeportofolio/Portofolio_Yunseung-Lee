@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 676" width="1200" height="676" role="img"
+     aria-label="협회 유튜브 댓글은 긍정 68%, 온라인 커뮤니티 4곳은 부정 77%. 커뮤니티별 부정 비율: 디시인사이드 78%, 에펨코리아 75%, 뽐뿌 73%, 일간베스트 74%.">
+  <style>.kr{font-family:'Pretendard','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif} .en{font-family:'Helvetica Neue','SF Pro Display','Segoe UI',Arial,sans-serif}</style>
+
+  <!-- 배경 -->
+  <rect x="0.5" y="0.5" width="1199" height="675" rx="24" fill="#FFFFFF" stroke="#D8DEE4"/>
+
+  <!-- 제목 · 범례 -->
+  <text class="kr" x="40" y="62" font-size="23" fill="#1F2328" font-weight="800">같은 간호법, 채널에 따라 감성이 정반대였습니다</text>
+  <rect x="992" y="49" width="14" height="14" rx="3" fill="#1C7C74"/>
+  <text class="kr" x="1012" y="62" font-size="15" fill="#424A53">긍정</text>
+  <rect x="1068" y="49" width="14" height="14" rx="3" fill="#C9473C"/>
+  <text class="kr" x="1088" y="62" font-size="15" fill="#424A53">부정</text>
+
+  <!-- 1. 채널 비교 -->
+  <text class="kr" x="40" y="116" font-size="15" fill="#6E7781" font-weight="700">채널 비교</text>
+  <!-- 협회 유튜브 댓글 -->
+  <g>
+    <text class="kr" x="40" y="160" font-size="19" fill="#1F2328" font-weight="800">협회 유튜브 댓글</text>
+    <text class="kr" x="40" y="184" font-size="14" fill="#6E7781">4,387건</text>
+    <rect x="330" y="136" width="562.9" height="56" rx="6" fill="#1C7C74"/>
+    <rect x="892.9" y="136" width="267.1" height="56" rx="6" fill="#C9473C"/>
+    <rect x="886.9" y="136" width="12" height="56" fill="#C9473C"/>
+    <rect x="886.9" y="136" width="6" height="56" fill="#1C7C74"/>
+    <text class="kr" x="346" y="171.92" font-size="22" fill="#FFFFFF" font-weight="800">긍정 68%</text>
+    <text class="kr" x="1144" y="171.92" font-size="22" fill="#FFFFFF" font-weight="800" text-anchor="end">부정 32%</text>
+  </g>
+  <!-- 커뮤니티 4곳 합계 -->
+  <g>
+    <text class="kr" x="40" y="236" font-size="19" fill="#1F2328" font-weight="800">커뮤니티 4곳 합계</text>
+    <text class="kr" x="40" y="260" font-size="14" fill="#6E7781">2,971건</text>
+    <rect x="330" y="212" width="191.6" height="56" rx="6" fill="#1C7C74"/>
+    <rect x="521.6" y="212" width="638.4" height="56" rx="6" fill="#C9473C"/>
+    <rect x="515.6" y="212" width="12" height="56" fill="#C9473C"/>
+    <rect x="515.6" y="212" width="6" height="56" fill="#1C7C74"/>
+    <text class="kr" x="346" y="247.92" font-size="22" fill="#FFFFFF" font-weight="800">긍정 23%</text>
+    <text class="kr" x="1144" y="247.92" font-size="22" fill="#FFFFFF" font-weight="800" text-anchor="end">부정 77%</text>
+  </g>
+
+  <line x1="40" y1="304" x2="1160" y2="304" stroke="#EAEEF2"/>
+
+  <!-- 2. 커뮤니티별 -->
+  <text class="kr" x="40" y="344" font-size="15" fill="#6E7781" font-weight="700">커뮤니티별</text>
+  <!-- 디시인사이드 -->
+  <g>
+    <text class="kr" x="40" y="380" font-size="16.5" fill="#1F2328" font-weight="700">디시인사이드</text>
+    <text class="kr" x="40" y="399" font-size="14" fill="#6E7781">2,047건</text>
+    <rect x="330" y="362" width="182.5" height="40" rx="6" fill="#1C7C74"/>
+    <rect x="512.5" y="362" width="647.5" height="40" rx="6" fill="#C9473C"/>
+    <rect x="506.5" y="362" width="12" height="40" fill="#C9473C"/>
+    <rect x="506.5" y="362" width="6" height="40" fill="#1C7C74"/>
+    <text class="kr" x="346" y="388.12" font-size="17" fill="#FFFFFF" font-weight="800">긍정 22%</text>
+    <text class="kr" x="1144" y="388.12" font-size="17" fill="#FFFFFF" font-weight="800" text-anchor="end">부정 78%</text>
+  </g>
+  <!-- 에펨코리아 -->
+  <g>
+    <text class="kr" x="40" y="438" font-size="16.5" fill="#1F2328" font-weight="700">에펨코리아</text>
+    <text class="kr" x="40" y="457" font-size="14" fill="#6E7781">560건</text>
+    <rect x="330" y="420" width="206.0" height="40" rx="6" fill="#1C7C74"/>
+    <rect x="536.0" y="420" width="624.0" height="40" rx="6" fill="#C9473C"/>
+    <rect x="530.0" y="420" width="12" height="40" fill="#C9473C"/>
+    <rect x="530.0" y="420" width="6" height="40" fill="#1C7C74"/>
+    <text class="kr" x="346" y="446.12" font-size="17" fill="#FFFFFF" font-weight="800">긍정 25%</text>
+    <text class="kr" x="1144" y="446.12" font-size="17" fill="#FFFFFF" font-weight="800" text-anchor="end">부정 75%</text>
+  </g>
+  <!-- 뽐뿌 -->
+  <g>
+    <text class="kr" x="40" y="496" font-size="16.5" fill="#1F2328" font-weight="700">뽐뿌</text>
+    <text class="kr" x="40" y="515" font-size="14" fill="#6E7781">222건</text>
+    <rect x="330" y="478" width="224.3" height="40" rx="6" fill="#1C7C74"/>
+    <rect x="554.3" y="478" width="605.7" height="40" rx="6" fill="#C9473C"/>
+    <rect x="548.3" y="478" width="12" height="40" fill="#C9473C"/>
+    <rect x="548.3" y="478" width="6" height="40" fill="#1C7C74"/>
+    <text class="kr" x="346" y="504.12" font-size="17" fill="#FFFFFF" font-weight="800">긍정 27%</text>
+    <text class="kr" x="1144" y="504.12" font-size="17" fill="#FFFFFF" font-weight="800" text-anchor="end">부정 73%</text>
+  </g>
+  <!-- 일간베스트 -->
+  <g>
+    <text class="kr" x="40" y="554" font-size="16.5" fill="#1F2328" font-weight="700">일간베스트</text>
+    <text class="kr" x="40" y="573" font-size="14" fill="#6E7781">142건</text>
+    <rect x="330" y="536" width="216.3" height="40" rx="6" fill="#1C7C74"/>
+    <rect x="546.3" y="536" width="613.7" height="40" rx="6" fill="#C9473C"/>
+    <rect x="540.3" y="536" width="12" height="40" fill="#C9473C"/>
+    <rect x="540.3" y="536" width="6" height="40" fill="#1C7C74"/>
+    <text class="kr" x="346" y="562.12" font-size="17" fill="#FFFFFF" font-weight="800">긍정 26%</text>
+    <text class="kr" x="1144" y="562.12" font-size="17" fill="#FFFFFF" font-weight="800" text-anchor="end">부정 74%</text>
+  </g>
+
+  <text class="kr" x="40" y="646" font-size="13.5" fill="#6E7781">딥러닝 감성 분류 결과 · 커뮤니티 게시글 2023.03 – 05, 대한간호협회 공식 유튜브 영상 31개의 댓글</text>
+</svg>
