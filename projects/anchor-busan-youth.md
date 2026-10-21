@@ -2,18 +2,33 @@
 
 <br>
 
-<img src="../assets/feature-anchor.svg" width="100%" alt="부산 청년 실태보고서. 5년간 부산일보·국제신문 청년·유학생 기사 22,292건을 청년 통계와 대조. 인구 유출·주거 비용 의제의 보도 비중 3–4%, 청년 이사 이유 1위 더 나은 일자리 51.5%."/>
+<div align="center">
+
+<sub>FEATURED 03 &nbsp;·&nbsp; 2025.09 – 2026.08 &nbsp;·&nbsp; 부산대학교 앵커사업단  &nbsp;·&nbsp; 총괄</sub>
+
+# 부산대학교 앵커사업단 부산 거주 청년 및 유학생 실태 보고서
+
+**언론은 간호법을 어떻게 보도했고, 온라인 이용자는 어떻게 반응했을까?**
+
+<p>
+  <img src="https://img.shields.io/badge/의뢰%20연구-대한간호협회-1C7C74?style=flat-square&labelColor=343A40" alt="의뢰 연구: 대한간호협회"/>
+  <img src="https://img.shields.io/badge/결과%20발표-협회%20임원진%20대상-C2410C?style=flat-square&labelColor=343A40" alt="결과 발표: 협회 임원진 대상"/>
+  <br>
+  <img src="https://img.shields.io/badge/Method-웹%20크롤링%20%7C%20LDA%20%7C%20의미연결망%20%7C%20딥러닝%20감성%20분석-5B6573?style=flat-square&labelColor=343A40" alt="Method: 웹 크롤링, LDA, 의미연결망, 딥러닝 감성 분석"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+</p>
+
+</div>
 
 | 항목 | 내용 |
 |:--|:--|
-| 사업 | 부산형 앵커(ANCHOR) 사업 · 부산대학교 앵커사업단 「지역사회 문제해결 시민 공감형 혁신 밀리우 구축」 |
-| 기간 | 2025.09 – 2026.08 <sub>(보고서 분석 2026.04 – 2026.08)</sub> |
-| 역할 | 빅데이터 분석팀 팀장 · 보고서 양식, 분석 방법, 결과 작성 |
-| 데이터 | 청년 통계 (Big-데이터웨이브 · KOSIS 등) &nbsp;+&nbsp; 부산일보 · 국제신문의 청년 · 유학생 기사 **22,292건** (5년) |
-| 방법 | 상관분석 · 연령대별 세분화 · BERTopic 토픽 모델링 · 감성 분석 · 시계열 분석 |
-| 결과물 | 「2026년 부산 청년 실태보고서」 · 설문(약 500명) · 인터뷰(40여 명) 문항 |
-| 관련 보도 | [채널PNU, 「부산 청년 문제, 언론엔 반쪽만 보였다」](https://channelpnu.pusan.ac.kr/news/articleView.html?idxno=39507) |
+| 보고서 | **2023 간호법 제정에 관한 국내 언론보도와 국민여론 분석** |
+| 의뢰 | 대한간호협회 |
+| 역할 | 보조연구원 </sub> · 데이터 수집 · 분석, 결과 기술, 발표 자료 초안 |
+| 데이터 | 빅카인즈 보도 (2021.01 – 2023.05) · YTN 방송 스크립트 **605건** · 온라인 커뮤니티 4곳 게시글 · 협회 유튜브 댓글 **4,336개** |
+| 공개 자료 | [언론 보도 데이터 (CSV)](../assets/data/medical_all.csv) &nbsp;·&nbsp; [유튜브 댓글 데이터 (CSV)](../assets/data/YTC.csv) &nbsp;·&nbsp; [커뮤니티 댓글 데이터 (CSV)](../assets/data/sentiment_analysis_result_fm.csv) &nbsp;·&nbsp; [변수 설명](../assets/data/README1.md) |
 
+<br>
 <br>
 
 ## 분석 질문
