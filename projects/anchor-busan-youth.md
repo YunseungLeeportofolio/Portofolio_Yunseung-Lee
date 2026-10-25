@@ -26,7 +26,7 @@
 | 사업 | 부산대학교 앵커사업단  |
 | 역할 | 연구원 </sub> · 데이터 수집 · 분석, 결과 기술, 발표 |
 | 데이터 | 부산일보 & 국제신문 기사 (2021.04 – 2026.04) **2,2292건** · KOSIS & Big-데이터웨이브  **4,336개** |
-| 공개 자료 | [Big-데이터웨이브 ](https://data.busan.go.kr/bdip/) &nbsp;·&nbsp; [KOSIS](https://kosis.kr/index/index.do) &nbsp;·&nbsp; [언론 데이터 (CSV)](assets/data/청년_사설_기사.csv
+| 공개 자료 | [Big-데이터웨이브 ](https://data.busan.go.kr/bdip/) &nbsp;·&nbsp; [KOSIS](https://kosis.kr/index/index.do) &nbsp;·&nbsp; [언론 데이터 (CSV)](/assets/data/청년_사설_기사.csv
 ) &nbsp;·&nbsp; [분석 코드](../assets/code/anchor_statistics.py) &nbsp;·&nbsp; [변인 생성](../assets/data/README2.md)|
 
 <br>
