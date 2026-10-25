@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<sub>FEATURED 03 &nbsp;·&nbsp; 『사회과학연구』 32(4) &nbsp;·&nbsp; 2025 &nbsp;·&nbsp; 제1저자</sub>
+<sub> 『사회과학연구』 32권4호 &nbsp;·&nbsp; 2025 &nbsp;·&nbsp; 제1저자</sub>
 
 # 정치인 유튜브 선거 콘텐츠와 이용자 참여
 
