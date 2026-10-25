@@ -23,7 +23,7 @@
 | 항목 | 내용 |
 |:--|:--|
 | 논문 | **정치인 유튜브 선거 캠페인 콘텐츠의 소구와 이용자 참여**<br><sub>Appeal and User Engagement in Politicians’ YouTube Electoral Campaign Content</sub> |
-| 학술지 | 『사회과학연구』 32권4호, 동국대학교 사회과학연구원, 2025.12 &nbsp;·&nbsp; [DOI](https://doi.org/10.46415/jss.2025.12.32.4.537) &nbsp;·&nbsp; [원문](https://scholarworks.dongguk.edu/item/85f6d494-df5c-49c2-9de1-b49815e28ab9) |
+| 학술지 | 『사회과학연구』 32권4호, 동국대학교 사회과학연구원, 2025.12 &nbsp;·&nbsp; [논문 보기](https://scholarworks.dongguk.edu/item/85f6d494-df5c-49c2-9de1-b49815e28ab9) |
 | 저자 | **이윤승** (제1저자), 리시웨, 김범수 |
 | 역할 | 연구 설계, 데이터 수집 · 코딩, 분석, 논문 작성, 학회 발표까지 전 과정 주도 |
 | 데이터 | 제22대 총선 부산 지역 더불어민주당 · 국민의힘 후보 **35명**의 유튜브 롱폼 영상 **376건** (민주 215 · 국민의힘 161), 2024.02.26 – 04.10 |
