@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<sub>FEATURED 02 &nbsp;·&nbsp; 2023.06 – 2023.12 &nbsp;·&nbsp; 대한간호협회 의뢰 연구 &nbsp;·&nbsp; 분석 전담</sub>
+<sub>2023.06 – 2023.12 &nbsp;·&nbsp; 대한간호협회 의뢰 연구 &nbsp;·&nbsp; 분석 전담</sub>
 
 # 간호법 관련 언론 보도와 온라인 여론
 
