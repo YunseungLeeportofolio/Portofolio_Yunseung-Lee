@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" width="1200" height="500" role="img"
+     aria-label="연구 모형 검증 결과. 감정 → 시민 대화 β = .20, 시민 대화 → 사회자본 β = .49, 사회자본 → 시민 참여 β = .25 (모두 p &lt; .001). 순차 매개 효과 B = .02, 95% CI [.01, .03]. 유튜브 영상 노출이 감정 → 대화 관계를 강화 B = .05, 95% CI [.01, .09].">
+  <style>.kr{font-family:'Pretendard','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif} .en{font-family:'Helvetica Neue','SF Pro Display','Segoe UI',Arial,sans-serif}</style>
+
+  <!-- 배경 -->
+  <rect x="0.5" y="0.5" width="1199" height="499" rx="24" fill="#FFFFFF" stroke="#D8DEE4"/>
+
+  <!-- 제목 -->
+  <text class="kr" x="40" y="62" font-size="23" fill="#1F2328" font-weight="800">감정은 대화와 사회자본을 거쳐 참여로 이어졌습니다</text>
+
+  <!-- 경로: 감정 → 대화 → 사회자본 → 참여 -->
+  <g>
+    <rect x="40" y="214" width="210" height="118" rx="14" fill="#F6F8FA" stroke="#D8DEE4"/>
+    <text class="kr" x="62" y="248" font-size="13.5" fill="#1C7C74" font-weight="700">독립변수</text>
+    <text class="kr" x="62" y="282" font-size="22" fill="#1F2328" font-weight="800">감정</text>
+    <text class="kr" x="62" y="310" font-size="14" fill="#6E7781">형용사 12쌍 · 7점</text>
+    <line x1="258" y1="273" x2="329.333" y2="273" stroke="#1C7C74" stroke-width="2.5"/>
+    <path d="M326.333 266 L335.333 273 L326.333 280" fill="none" stroke="#1C7C74" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text class="en" x="296.667" y="303" font-size="15" fill="#1C7C74" font-weight="800" text-anchor="middle">β = .20***</text>
+    <rect x="343.333" y="214" width="210" height="118" rx="14" fill="#F6F8FA" stroke="#D8DEE4"/>
+    <text class="kr" x="365.333" y="248" font-size="13.5" fill="#1C7C74" font-weight="700">매개변수 1</text>
+    <text class="kr" x="365.333" y="282" font-size="22" fill="#1F2328" font-weight="800">시민 대화</text>
+    <text class="kr" x="365.333" y="310" font-size="14" fill="#6E7781">대화 상대 5명 · 5점</text>
+    <line x1="561.333" y1="273" x2="632.667" y2="273" stroke="#1C7C74" stroke-width="2.5"/>
+    <path d="M629.667 266 L638.667 273 L629.667 280" fill="none" stroke="#1C7C74" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text class="en" x="600" y="303" font-size="15" fill="#1C7C74" font-weight="800" text-anchor="middle">β = .49***</text>
+    <rect x="646.667" y="214" width="210" height="118" rx="14" fill="#F6F8FA" stroke="#D8DEE4"/>
+    <text class="kr" x="668.667" y="248" font-size="13.5" fill="#1C7C74" font-weight="700">매개변수 2</text>
+    <text class="kr" x="668.667" y="282" font-size="22" fill="#1F2328" font-weight="800">사회자본</text>
+    <text class="kr" x="668.667" y="310" font-size="14" fill="#6E7781">6문항 · 5점</text>
+    <line x1="864.667" y1="273" x2="936" y2="273" stroke="#1C7C74" stroke-width="2.5"/>
+    <path d="M933 266 L942 273 L933 280" fill="none" stroke="#1C7C74" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text class="en" x="903.333" y="303" font-size="15" fill="#1C7C74" font-weight="800" text-anchor="middle">β = .25***</text>
+    <rect x="950" y="214" width="210" height="118" rx="14" fill="#F6F8FA" stroke="#D8DEE4"/>
+    <text class="kr" x="972" y="248" font-size="13.5" fill="#1C7C74" font-weight="700">종속변수</text>
+    <text class="kr" x="972" y="282" font-size="22" fill="#1F2328" font-weight="800">시민 참여</text>
+    <text class="kr" x="972" y="310" font-size="14" fill="#6E7781">11문항 · 5점</text>
+  </g>
+
+  <!-- 조절: 유튜브 영상 노출이 감정 → 대화 경로를 강화 -->
+  <g>
+    <rect x="226.667" y="100" width="330" height="64" rx="14" fill="#FBE9E7" stroke="#C9473C" stroke-opacity=".5"/>
+    <text class="kr" x="246.667" y="127" font-size="13.5" fill="#C9473C" font-weight="700">조절변수</text>
+    <text class="kr" x="246.667" y="150" font-size="17" fill="#1F2328" font-weight="800">유튜브 영상 노출 (16개 유형)</text>
+    <line x1="296.667" y1="168" x2="296.667" y2="263" stroke="#C9473C" stroke-width="2.5" stroke-dasharray="6 5"/>
+    <path d="M289.667 256 L296.667 265 L303.667 256" fill="none" stroke="#C9473C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text class="en" x="310.667" y="194" font-size="14.5" fill="#C9473C" font-weight="800">B = .05, 95% CI [.01, .09]</text>
+  </g>
+
+  <!-- 순차 매개 효과 -->
+  <rect x="40" y="390" width="1120" height="56" rx="14" fill="#E6F3F1"/>
+  <text class="kr" x="64" y="425" font-size="16" fill="#424A53"><tspan font-weight="800" fill="#1C7C74">순차 매개 효과</tspan><tspan dx="16">감정 → 대화 → 사회자본 → 참여</tspan><tspan dx="16" class="en" font-weight="800" fill="#1C7C74">B = .02, 95% CI [.01, .03]</tspan></text>
+
+  <!-- 주석 -->
+  <text class="kr" x="40" y="474" font-size="13" fill="#6E7781">*** p &lt; .001 · PROCESS Macro Model 6, 부트스트랩 5,000회 · 통제: 성별, 연령, 진보 · 보수 · 지역 신문, TV 뉴스, 소셜미디어 뉴스 이용</text>
+</svg>

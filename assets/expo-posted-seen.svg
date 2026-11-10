@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 766" width="1200" height="766" role="img"
+     aria-label="16개 영상 유형별 게시 수, 시민 노출 정도(5점 평균), 감정 → 대화 조절 효과 여부. 16개 중 11개 유형은 조절 효과가 있었지만, 48건으로 가장 많이 올라온 릴레이 응원 영상은 효과가 없었음. 일반인 브이로그와 카드뉴스형 해설 영상(각 48건)은 효과 있음.">
+  <style>.kr{font-family:'Pretendard','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif} .en{font-family:'Helvetica Neue','SF Pro Display','Segoe UI',Arial,sans-serif}</style>
+
+  <!-- 배경 -->
+  <rect x="0.5" y="0.5" width="1199" height="765" rx="24" fill="#FFFFFF" stroke="#D8DEE4"/>
+
+  <!-- 제목 · 범례 -->
+  <text class="kr" x="40.0" y="62.0" font-size="23" fill="#1F2328" font-weight="800">가장 많이 올린 릴레이 응원 영상은 감정을 대화로 이어 주지 못했습니다</text>
+  <rect x="40" y="86" width="14" height="14" rx="3" fill="#1C7C74"/>
+  <text class="kr" x="62.0" y="98.0" font-size="14.5" fill="#424A53">조절 효과 있음 (11개)</text>
+  <rect x="260" y="86" width="14" height="14" rx="3" fill="#C3CCD6"/>
+  <text class="kr" x="282.0" y="98.0" font-size="14.5" fill="#424A53">조절 효과 없음 (5개)</text>
+  <rect x="480" y="86" width="14" height="14" rx="3" fill="#C9473C"/>
+  <text class="kr" x="502.0" y="98.0" font-size="14.5" fill="#424A53">가장 많이 올렸지만 효과 없음</text>
+
+  <!-- 열 제목 -->
+  <text class="kr" x="316.0" y="160.0" font-size="15" fill="#1F2328" font-weight="800">유치위원회가 올린 영상 수 (건)</text>
+  <text class="kr" x="900.0" y="160.0" font-size="15" fill="#1F2328" font-weight="800" text-anchor="middle">시민 노출</text>
+  <text class="kr" x="900.0" y="180.0" font-size="13" fill="#6E7781" text-anchor="middle">5점 평균</text>
+  <text class="kr" x="1060.0" y="160.0" font-size="15" fill="#1F2328" font-weight="800" text-anchor="middle">감정 → 대화</text>
+  <text class="kr" x="1060.0" y="180.0" font-size="13" fill="#6E7781" text-anchor="middle">조절 효과</text>
+  <line x1="40" y1="190" x2="1160" y2="190" stroke="#EAEEF2" stroke-width="1.5"/>
+
+  <!-- 유형별: 게시 수 막대 · 노출 평균 · 조절 효과 -->
+  <g>
+    <rect x="40" y="194" width="1120" height="30" rx="8" fill="#FBE9E7"/>
+    <text class="kr" x="300.0" y="214.0" font-size="15" fill="#C9473C" font-weight="800" text-anchor="end">릴레이 응원 영상</text>
+    <rect x="316" y="200" width="400.0" height="18" rx="4" fill="#C9473C"/>
+    <text class="en" x="724.0" y="214.0" font-size="14" fill="#C9473C" font-weight="800">48</text>
+    <text class="en" x="900.0" y="214.0" font-size="14.5" fill="#424A53" text-anchor="middle">2.29</text>
+    <rect x="1022.0" y="198" width="76" height="22" rx="11" fill="#C9473C"/>
+    <text class="kr" x="1060.0" y="214.0" font-size="13.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">없음</text>
+    <text class="kr" x="300.0" y="245.0" font-size="15" fill="#424A53" text-anchor="end">일반인 브이로그</text>
+    <rect x="316" y="231" width="400.0" height="18" rx="4" fill="#1C7C74"/>
+    <text class="en" x="724.0" y="245.0" font-size="14" fill="#6E7781">48</text>
+    <text class="en" x="900.0" y="245.0" font-size="14.5" fill="#424A53" text-anchor="middle">1.97</text>
+    <rect x="1022.0" y="229" width="76" height="22" rx="11" fill="#E6F3F1"/>
+    <text class="kr" x="1060.0" y="245.0" font-size="13.5" fill="#1C7C74" font-weight="700" text-anchor="middle">있음</text>
+    <text class="kr" x="300.0" y="276.0" font-size="15" fill="#424A53" text-anchor="end">카드뉴스형 해설 영상</text>
+    <rect x="316" y="262" width="400.0" height="18" rx="4" fill="#1C7C74"/>
+    <text class="en" x="724.0" y="276.0" font-size="14" fill="#6E7781">48</text>
+    <text class="en" x="900.0" y="276.0" font-size="14.5" fill="#424A53" text-anchor="middle">2.27</text>
+    <rect x="1022.0" y="260" width="76" height="22" rx="11" fill="#E6F3F1"/>
+    <text class="kr" x="1060.0" y="276.0" font-size="13.5" fill="#1C7C74" font-weight="700" text-anchor="middle">있음</text>
+    <text class="kr" x="300.0" y="307.0" font-size="15" fill="#424A53" text-anchor="end">유치위원회 공식 홍보 영상</text>
+    <rect x="316" y="293" width="258.3" height="18" rx="4" fill="#1C7C74"/>
+    <text class="en" x="582.3" y="307.0" font-size="14" fill="#6E7781">31</text>
+    <text class="en" x="900.0" y="307.0" font-size="14.5" fill="#424A53" text-anchor="middle">2.81</text>
+    <rect x="1022.0" y="291" width="76" height="22" rx="11" fill="#E6F3F1"/>
+    <text class="kr" x="1060.0" y="307.0" font-size="13.5" fill="#1C7C74" font-weight="700" text-anchor="middle">있음</text>
+    <text class="kr" x="300.0" y="338.0" font-size="15" fill="#424A53" text-anchor="end">총회 영상</text>
+    <rect x="316" y="324" width="225.0" height="18" rx="4" fill="#1C7C74"/>
+    <text class="en" x="549.0" y="338.0" font-size="14" fill="#6E7781">27</text>
+    <text class="en" x="900.0" y="338.0" font-size="14.5" fill="#424A53" text-anchor="middle">2.63</text>
+    <rect x="1022.0" y="322" width="76" height="22" rx="11" fill="#E6F3F1"/>
+    <text class="kr" x="1060.0" y="338.0" font-size="13.5" fill="#1C7C74" font-weight="700" text-anchor="middle">있음</text>
+    <text class="kr" x="300.0" y="369.0" font-size="15" fill="#424A53" text-anchor="end">엑스포 행사 현장</text>
+    <rect x="316" y="355" width="216.7" height="18" rx="4" fill="#1C7C74"/>
+    <text class="en" x="540.7" y="369.0" font-size="14" fill="#6E7781">26</text>
+    <text class="en" x="900.0" y="369.0" font-size="14.5" fill="#424A53" text-anchor="middle">2.37</text>
+    <rect x="1022.0" y="353" width="76" height="22" rx="11" fill="#E6F3F1"/>
+    <text class="kr" x="1060.0" y="369.0" font-size="13.5" fill="#1C7C74" font-weight="700" text-anchor="middle">있음</text>
+    <text class="kr" x="300.0" y="400.0" font-size="15" fill="#424A53" text-anchor="end">예능 토크쇼</text>
+    <rect x="316" y="386" width="158.3" height="18" rx="4" fill="#C3CCD6"/>
+    <text class="en" x="482.3" y="400.0" font-size="14" fill="#6E7781">19</text>
+    <text class="en" x="900.0" y="400.0" font-size="14.5" fill="#424A53" text-anchor="middle">2.18</text>
+    <rect x="1022.0" y="384" width="76" height="22" rx="11" fill="#EEF1F4"/>
+    <text class="kr" x="1060.0" y="400.0" font-size="13.5" fill="#6E7781" font-weight="700" text-anchor="middle">없음</text>
+    <text class="kr" x="300.0" y="431.0" font-size="15" fill="#424A53" text-anchor="end">웹툰 · 애니메이션</text>
+    <rect x="316" y="417" width="133.3" height="18" rx="4" fill="#1C7C74"/>
+    <text class="en" x="457.3" y="431.0" font-size="14" fill="#6E7781">16</text>
+    <text class="en" x="900.0" y="431.0" font-size="14.5" fill="#424A53" text-anchor="middle">2.17</text>
+    <rect x="1022.0" y="415" width="76" height="22" rx="11" fill="#E6F3F1"/>
+    <text class="kr" x="1060.0" y="431.0" font-size="13.5" fill="#1C7C74" font-weight="700" text-anchor="middle">있음</text>
+    <text class="kr" x="300.0" y="462.0" font-size="15" fill="#424A53" text-anchor="end">정치인 · 기업인 연설</text>
+    <rect x="316" y="448" width="125.0" height="18" rx="4" fill="#1C7C74"/>
+    <text class="en" x="449.0" y="462.0" font-size="14" fill="#6E7781">15</text>
+    <text class="en" x="900.0" y="462.0" font-size="14.5" fill="#424A53" text-anchor="middle">2.19</text>
+    <rect x="1022.0" y="446" width="76" height="22" rx="11" fill="#E6F3F1"/>
+    <text class="kr" x="1060.0" y="462.0" font-size="13.5" fill="#1C7C74" font-weight="700" text-anchor="middle">있음</text>
+    <text class="kr" x="300.0" y="493.0" font-size="15" fill="#424A53" text-anchor="end">시민 챌린지</text>
+    <rect x="316" y="479" width="108.3" height="18" rx="4" fill="#1C7C74"/>
+    <text class="en" x="432.3" y="493.0" font-size="14" fill="#6E7781">13</text>
+    <text class="en" x="900.0" y="493.0" font-size="14.5" fill="#424A53" text-anchor="middle">2.17</text>
+    <rect x="1022.0" y="477" width="76" height="22" rx="11" fill="#E6F3F1"/>
+    <text class="kr" x="1060.0" y="493.0" font-size="13.5" fill="#1C7C74" font-weight="700" text-anchor="middle">있음</text>
+    <text class="kr" x="300.0" y="524.0" font-size="15" fill="#424A53" text-anchor="end">연예인 뮤직비디오</text>
+    <rect x="316" y="510" width="75.0" height="18" rx="4" fill="#C3CCD6"/>
+    <text class="en" x="399.0" y="524.0" font-size="14" fill="#6E7781">9</text>
+    <text class="en" x="900.0" y="524.0" font-size="14.5" fill="#424A53" text-anchor="middle">2.54</text>
+    <rect x="1022.0" y="508" width="76" height="22" rx="11" fill="#EEF1F4"/>
+    <text class="kr" x="1060.0" y="524.0" font-size="13.5" fill="#6E7781" font-weight="700" text-anchor="middle">없음</text>
+    <text class="kr" x="300.0" y="555.0" font-size="15" fill="#424A53" text-anchor="end">연예인 TV 광고</text>
+    <rect x="316" y="541" width="58.3" height="18" rx="4" fill="#1C7C74"/>
+    <text class="en" x="382.3" y="555.0" font-size="14" fill="#6E7781">7</text>
+    <text class="en" x="900.0" y="555.0" font-size="14.5" fill="#424A53" text-anchor="middle">2.80</text>
+    <rect x="1022.0" y="539" width="76" height="22" rx="11" fill="#E6F3F1"/>
+    <text class="kr" x="1060.0" y="555.0" font-size="13.5" fill="#1C7C74" font-weight="700" text-anchor="middle">있음</text>
+    <text class="kr" x="300.0" y="586.0" font-size="15" fill="#424A53" text-anchor="end">위촉식 · 발대식</text>
+    <rect x="316" y="572" width="41.7" height="18" rx="4" fill="#1C7C74"/>
+    <text class="en" x="365.7" y="586.0" font-size="14" fill="#6E7781">5</text>
+    <text class="en" x="900.0" y="586.0" font-size="14.5" fill="#424A53" text-anchor="middle">2.15</text>
+    <rect x="1022.0" y="570" width="76" height="22" rx="11" fill="#E6F3F1"/>
+    <text class="kr" x="1060.0" y="586.0" font-size="13.5" fill="#1C7C74" font-weight="700" text-anchor="middle">있음</text>
+    <text class="kr" x="300.0" y="617.0" font-size="15" fill="#424A53" text-anchor="end">응원송</text>
+    <rect x="316" y="603" width="25.0" height="18" rx="4" fill="#C3CCD6"/>
+    <text class="en" x="349.0" y="617.0" font-size="14" fill="#6E7781">3</text>
+    <text class="en" x="900.0" y="617.0" font-size="14.5" fill="#424A53" text-anchor="middle">2.21</text>
+    <rect x="1022.0" y="601" width="76" height="22" rx="11" fill="#EEF1F4"/>
+    <text class="kr" x="1060.0" y="617.0" font-size="13.5" fill="#6E7781" font-weight="700" text-anchor="middle">없음</text>
+    <text class="kr" x="300.0" y="648.0" font-size="15" fill="#424A53" text-anchor="end">TV 뉴스 · 다큐멘터리</text>
+    <rect x="316" y="634" width="25.0" height="18" rx="4" fill="#C3CCD6"/>
+    <text class="en" x="349.0" y="648.0" font-size="14" fill="#6E7781">3</text>
+    <text class="en" x="900.0" y="648.0" font-size="14.5" fill="#424A53" text-anchor="middle">2.45</text>
+    <rect x="1022.0" y="632" width="76" height="22" rx="11" fill="#EEF1F4"/>
+    <text class="kr" x="1060.0" y="648.0" font-size="13.5" fill="#6E7781" font-weight="700" text-anchor="middle">없음</text>
+    <text class="kr" x="300.0" y="679.0" font-size="15" fill="#424A53" text-anchor="end">연예인 응원 메시지</text>
+    <rect x="316" y="665" width="25.0" height="18" rx="4" fill="#1C7C74"/>
+    <text class="en" x="349.0" y="679.0" font-size="14" fill="#6E7781">3</text>
+    <text class="en" x="900.0" y="679.0" font-size="14.5" fill="#424A53" text-anchor="middle">2.41</text>
+    <rect x="1022.0" y="663" width="76" height="22" rx="11" fill="#E6F3F1"/>
+    <text class="kr" x="1060.0" y="679.0" font-size="13.5" fill="#1C7C74" font-weight="700" text-anchor="middle">있음</text>
+  </g>
+
+  <!-- 출처 -->
+  <text class="kr" x="40.0" y="740.0" font-size="13" fill="#6E7781">게시 수: 공식 유튜브 영상 320건 내용분석 · 노출: 부산 시민 660명 설문 · 조절 효과: 유형별 노출이 감정 → 시민 대화 관계를 강화했는지 (논문 결과)</text>
+</svg>
