@@ -24,8 +24,9 @@
 | 논문 | **Examining Civic Engagement Processes for a National Event: The Moderating Role of YouTube Content**<br><sub>국가적 이벤트에 대한 시민 참여 과정 탐색: 유튜브 콘텐츠의 조절 역할</sub> |
 | 학술지 | 『사회과학연구』 31권2호, 2024 &nbsp;·&nbsp; [논문 보기](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11812117) |
 | 저자 | 리시웨, **이윤승** (제2저자), 김범수 |
-| 역할 | **설문 설계** — 문항 작성(공동저자와 분담), 파일럿 조사, 웹 설문 검수, 스크리닝 조건 설정<br>연구 모델 설계, 유튜브 영상 내용분석, 데이터 분석 |
+| 역할 | 유튜브 콘텐츠 내용분석, 설문 문항 설계, 파일럿 조사, 웹 설문 검수, 스크리닝 조건 설정<br>연구 모델 설계, 데이터 분석, 방법론 및 결과 기술 |
 | 데이터 | 유치위원회 공식 유튜브 영상 **320건** (2020.08.29 – 2023.06.23) · 부산 시민 온라인 설문 **660명** |
+| 공개 자료 | [유튜브 콘텐츠 내용분석 코드북 (PDF)](../assets/data/codebook.pdf) &nbsp;·&nbsp; [유튜브 콘텐츠 내용분석 코딩 데이터 (CSV)](../assets/data/expo_contentanalysis.csv) &nbsp;·&nbsp; [설문조사지 (PDF)](../assets/data/expo_survey.pdf) &nbsp;·&nbsp; [설문조사 데이터 (CSV)](../assets/data/expo_data.csv) &nbsp;·&nbsp; [변수 설명](../assets/data/README5.md) &nbsp;·&nbsp; [분석 코드](../assets/code/expo.py) |
 
 <br>
 
