@@ -114,4 +114,4 @@
 
 ---
 
-[← 이전: 부산 청년 실태보고서](anchor-busan-youth.md) &nbsp;·&nbsp; [Featured Work로 돌아가기](../README.md#featured-work) &nbsp;·&nbsp; [다음: 총선 후보 유튜브 →](politician-youtube-campaign.md)
+[← 이전: 총선 후보 유튜브](politician-youtube-campaign.md) &nbsp;·&nbsp; [Featured Work로 돌아가기](../README.md#featured-work) &nbsp;·&nbsp; [다음: 간호법 연구 →](nursing-law.md)
