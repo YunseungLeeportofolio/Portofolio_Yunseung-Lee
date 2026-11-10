@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 530" width="1200" height="530" role="img"
+     aria-label="연구 설계. 내용분석: 유치위원회 공식 유튜브 영상 320건(2020.08–2023.06)을 귀납적으로 16개 유형으로 분류·코딩(κ = .94)하고 유형별 게시 수를 집계. 설문: 16개 유형별 노출 문항과 감정·대화·사회자본·참여 문항을 설계하고, 대학원생·학부생 파일럿과 웹 화면·로직 검수를 거쳐 부산 시민 660명에게 온라인 설문(2023.09, 엠브레인). 두 자료를 모아 PROCESS Macro Model 6으로 감정 → 대화 → 사회자본 → 참여의 순차 매개와 영상 유형별 노출의 조절 효과를 검증.">
+  <style>.kr{font-family:'Pretendard','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif} .en{font-family:'Helvetica Neue','SF Pro Display','Segoe UI',Arial,sans-serif} .mono{font-family:'SF Mono',Menlo,Consolas,'Courier New',monospace;letter-spacing:1.5px}</style>
+
+  <!-- 배경 -->
+  <rect x="0.5" y="0.5" width="1199" height="529" rx="24" fill="#FFFFFF" stroke="#D8DEE4"/>
+
+  <!-- 제목 -->
+  <text class="kr" x="40" y="62" font-size="23" fill="#1F2328" font-weight="800">영상은 내용분석으로, 시민은 설문으로 측정한 뒤 하나의 모델로 연결했습니다</text>
+
+  <!-- 내용분석 -->
+  <g>
+    <text class="kr" x="40" y="167" font-size="20" fill="#B4691F" font-weight="800">내용분석</text>
+    <rect x="140" y="100" width="216" height="120" rx="14" fill="#F6F8FA" stroke="#D8DEE4"/>
+    <text class="mono" x="160" y="132" font-size="12" fill="#B4691F" font-weight="700">01</text>
+    <text class="kr" x="160" y="162" font-size="19" fill="#1F2328" font-weight="800">영상 320건</text>
+    <text class="kr" x="160" y="188" font-size="14" fill="#424A53">유치위원회 공식 채널</text>
+    <text class="kr" x="160" y="208" font-size="14" fill="#424A53">2020.08 – 2023.06</text>
+    <line x1="362" y1="160" x2="374" y2="160" stroke="#6E7781" stroke-width="2"/>
+    <path d="M372 154 L380 160 L372 166" fill="none" stroke="#6E7781" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="386" y="100" width="216" height="120" rx="14" fill="#F6F8FA" stroke="#D8DEE4"/>
+    <text class="mono" x="406" y="132" font-size="12" fill="#B4691F" font-weight="700">02</text>
+    <text class="kr" x="406" y="162" font-size="19" fill="#1F2328" font-weight="800">유형 분류 · 코딩</text>
+    <text class="kr" x="406" y="188" font-size="14" fill="#424A53">귀납적으로 16개 유형</text>
+    <text class="kr" x="406" y="208" font-size="14" fill="#424A53">κ = .94 (표본 15%)</text>
+    <line x1="608" y1="160" x2="620" y2="160" stroke="#6E7781" stroke-width="2"/>
+    <path d="M618 154 L626 160 L618 166" fill="none" stroke="#6E7781" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="632" y="100" width="216" height="120" rx="14" fill="#F6F8FA" stroke="#D8DEE4"/>
+    <text class="mono" x="652" y="132" font-size="12" fill="#B4691F" font-weight="700">03</text>
+    <text class="kr" x="652" y="162" font-size="19" fill="#1F2328" font-weight="800">게시 비중</text>
+    <text class="kr" x="652" y="188" font-size="14" fill="#424A53">유형별 영상 수 집계</text>
+    <text class="kr" x="652" y="208" font-size="14" fill="#424A53">시민 노출과 비교할 기준</text>
+    <line x1="858" y1="160" x2="892" y2="160" stroke="#B4691F" stroke-width="2"/>
+    <path d="M890 154 L898 160 L890 166" fill="none" stroke="#B4691F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- 설문 -->
+  <g>
+    <text class="kr" x="40" y="347" font-size="20" fill="#1C7C74" font-weight="800">설문</text>
+    <rect x="140" y="280" width="216" height="120" rx="14" fill="#F6F8FA" stroke="#D8DEE4"/>
+    <text class="mono" x="160" y="312" font-size="12" fill="#1C7C74" font-weight="700">01</text>
+    <text class="kr" x="160" y="342" font-size="19" fill="#1F2328" font-weight="800">문항 설계</text>
+    <text class="kr" x="160" y="368" font-size="14" fill="#424A53">노출 16 · 감정 12쌍</text>
+    <text class="kr" x="160" y="388" font-size="14" fill="#424A53">대화 · 사회자본 · 참여</text>
+    <line x1="362" y1="340" x2="374" y2="340" stroke="#6E7781" stroke-width="2"/>
+    <path d="M372 334 L380 340 L372 346" fill="none" stroke="#6E7781" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="386" y="280" width="216" height="120" rx="14" fill="#F6F8FA" stroke="#D8DEE4"/>
+    <text class="mono" x="406" y="312" font-size="12" fill="#1C7C74" font-weight="700">02</text>
+    <text class="kr" x="406" y="342" font-size="19" fill="#1F2328" font-weight="800">파일럿 · 검수</text>
+    <text class="kr" x="406" y="368" font-size="14" fill="#424A53">대학원생 · 학부생 파일럿</text>
+    <text class="kr" x="406" y="388" font-size="14" fill="#424A53">웹 화면 · 로직 확인</text>
+    <line x1="608" y1="340" x2="620" y2="340" stroke="#6E7781" stroke-width="2"/>
+    <path d="M618 334 L626 340 L618 346" fill="none" stroke="#6E7781" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="632" y="280" width="216" height="120" rx="14" fill="#F6F8FA" stroke="#D8DEE4"/>
+    <text class="mono" x="652" y="312" font-size="12" fill="#1C7C74" font-weight="700">03</text>
+    <text class="kr" x="652" y="342" font-size="19" fill="#1F2328" font-weight="800">온라인 설문</text>
+    <text class="kr" x="652" y="368" font-size="14" fill="#424A53">부산 시민 660명</text>
+    <text class="kr" x="652" y="388" font-size="14" fill="#424A53">2023.09 · 엠브레인</text>
+    <line x1="858" y1="340" x2="892" y2="340" stroke="#1C7C74" stroke-width="2"/>
+    <path d="M890 334 L898 340 L890 346" fill="none" stroke="#1C7C74" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- 연결 고리: 16개 유형을 노출 문항으로 -->
+  <path d="M494 224 V250 H248 V274" fill="none" stroke="#B4691F" stroke-width="2" stroke-dasharray="5 4"/>
+  <path d="M242 268 L248 276 L254 268" fill="none" stroke="#B4691F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text class="kr" x="506" y="255" font-size="14" fill="#B4691F" font-weight="700">16개 유형마다 노출 문항 1개</text>
+
+  <!-- 모형 검증 -->
+  <g>
+    <rect x="908" y="100" width="252" height="300" rx="16" fill="#FBE9E7" stroke="#C9473C" stroke-opacity=".5"/>
+    <text class="mono" x="932" y="136" font-size="12" fill="#C9473C" font-weight="700">04</text>
+    <text class="kr" x="932" y="170" font-size="21" fill="#1F2328" font-weight="800">모형 검증</text>
+    <text class="kr" x="932" y="208" font-size="15" fill="#424A53">감정 → 대화 → 사회자본 → 참여</text>
+    <text class="kr" x="932" y="234" font-size="15" fill="#424A53">순차 매개 효과와</text>
+    <text class="kr" x="932" y="260" font-size="15" fill="#424A53">영상 유형별 노출의 조절 효과</text>
+    <text class="kr" x="932" y="336" font-size="14.5" fill="#C9473C" font-weight="700">PROCESS Macro Model 6</text>
+    <text class="kr" x="932" y="360" font-size="14.5" fill="#C9473C" font-weight="700">부트스트랩 5,000회</text>
+  </g>
+
+  <!-- 통제 변수 -->
+  <rect x="40" y="430" width="1120" height="56" rx="14" fill="#E6F3F1"/>
+  <text class="kr" x="64" y="465" font-size="16" fill="#424A53"><tspan font-weight="800" fill="#1C7C74">통제 변수</tspan><tspan dx="16">성별 · 연령, 진보 · 보수 · 지역 신문, TV 뉴스, 소셜미디어 뉴스 이용</tspan></text>
+</svg>
