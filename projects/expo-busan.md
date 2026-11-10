@@ -11,7 +11,7 @@
 **유치위원회가 올린 유튜브 영상은 부산 시민의 대화와 참여로 이어졌을까?**
 
 <p>
-  <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11812117"><img src="https://img.shields.io/badge/논문%20게재-사회과학연구%2031(2)%20·%20제2저자-1C7C74?style=flat-square&labelColor=343A40" alt="논문 게재: 사회과학연구 31(2), 제2저자"/></a>
+  <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11812117"><img src="https://img.shields.io/badge/논문%20게재-사회과학연구%2031(2)%20·%20제2저자-1C7C74?style=flat-square&labelColor=343A40" alt="논문 게재: 사회과학연구 31권2호, 제2저자"/></a>
   <img src="https://img.shields.io/badge/학회%20발표-한국PR학회%202023%20가을-C2410C?style=flat-square&labelColor=343A40" alt="학회 발표: 한국PR학회 2023 가을"/>
   <br>
   <img src="https://img.shields.io/badge/Method-설문%20설계%20%7C%20내용분석%20%7C%20매개%20·%20조절%20분석-5B6573?style=flat-square&labelColor=343A40" alt="Method: 설문 설계, 내용분석, 매개·조절 분석, SPSS, Python"/>
