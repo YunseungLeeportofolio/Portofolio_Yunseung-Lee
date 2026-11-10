@@ -99,4 +99,4 @@
 
 ---
 
-[← 이전: 부산 청년 실태보고서](anchor-busan-youth.md) &nbsp;·&nbsp; [Featured Work로 돌아가기](../README.md#featured-work) &nbsp;·&nbsp; [다음: 부산 엑스포 연구 →](projects/expo-busan.md)
+[← 이전: 부산 청년 실태보고서](anchor-busan-youth.md) &nbsp;·&nbsp; [Featured Work로 돌아가기](../README.md#featured-work) &nbsp;·&nbsp; [다음: 부산 엑스포 연구 →](expo-busan.md)
