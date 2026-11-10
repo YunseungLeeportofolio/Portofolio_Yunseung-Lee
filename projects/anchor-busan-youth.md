@@ -140,4 +140,4 @@
 
 ---
 
-[Featured Work로 돌아가기](../README.md#featured-work) &nbsp;·&nbsp; [다음: 간호법 언론 · 여론 분석 →](nursing-law.md)
+[Featured Work로 돌아가기](../README.md#featured-work) &nbsp;·&nbsp; [다음: 총선 후보 유튜브 분석 →](politician-youtube-campaign.md)
